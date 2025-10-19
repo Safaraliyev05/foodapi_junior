@@ -1,0 +1,3022 @@
+[
+    {
+        "name": "Kompot Olma Nature",
+        "image": "https://images.openfoodfacts.org/images/products/360/858/078/9758/front_fr.80.400.jpg",
+        "calories": 55,
+        "price": 16043,
+        "brand": "Andros",
+        "category": "mevalar",
+        "nutrition_grade": "a",
+        "description": "Kompot Olma Nature — tabiiy mevalar mahsuloti, vitaminlarga boy va foydali oziq-ovqat."
+    },
+    {
+        "name": "Ananas. Stücke",
+        "image": "https://images.openfoodfacts.org/images/products/405/648/910/0553/front_de.104.400.jpg",
+        "calories": 56,
+        "price": 40851,
+        "brand": "Freshona, Kirkland, Lidl Freshona, Freshona - Lidl",
+        "category": "mevalar",
+        "nutrition_grade": "a",
+        "description": "Ananas. Stücke — tabiiy mevalar mahsuloti, vitaminlarga boy va foydali oziq-ovqat."
+    },
+    {
+        "name": "Piña en su Jugo",
+        "image": "https://images.openfoodfacts.org/images/products/848/000/015/2039/front_es.67.400.jpg",
+        "calories": 55,
+        "price": 42076,
+        "brand": "Hacendado",
+        "category": "mevalar",
+        "nutrition_grade": "a",
+        "description": "Piña en su Jugo — tabiiy mevalar mahsuloti, vitaminlarga boy va foydali oziq-ovqat."
+    },
+    {
+        "name": "Olma",
+        "image": "https://images.openfoodfacts.org/images/products/324/541/462/0131/front_fr.75.400.jpg",
+        "calories": 53,
+        "price": 25141,
+        "brand": "Carrefour",
+        "category": "mevalar",
+        "nutrition_grade": "a",
+        "description": "Olma — tabiiy mevalar mahsuloti, vitaminlarga boy va foydali oziq-ovqat."
+    },
+    {
+        "name": "5 Fairtrade Bananlar",
+        "image": "https://images.openfoodfacts.org/images/products/000/000/176/8558/front_en.28.400.jpg",
+        "calories": 103,
+        "price": 32303,
+        "brand": "Sainsbury's",
+        "category": "mevalar",
+        "nutrition_grade": "b",
+        "description": "5 Fairtrade Bananlar — tabiiy mevalar mahsuloti, vitaminlarga boy va foydali oziq-ovqat."
+    },
+    {
+        "name": "Red Seedless Grapes",
+        "image": "https://images.openfoodfacts.org/images/products/000/001/006/6140/front_en.28.400.jpg",
+        "calories": 73,
+        "price": 31201,
+        "brand": "Tesco",
+        "category": "mevalar",
+        "nutrition_grade": "a",
+        "description": "Red Seedless Grapes — tabiiy mevalar mahsuloti, vitaminlarga boy va foydali oziq-ovqat."
+    },
+    {
+        "name": "Melocoton en almibar",
+        "image": "https://images.openfoodfacts.org/images/products/000/002/062/2374/front_en.174.400.jpg",
+        "calories": 60,
+        "price": 35715,
+        "brand": "Freshona",
+        "category": "mevalar",
+        "nutrition_grade": "b",
+        "description": "Melocoton en almibar — tabiiy mevalar mahsuloti, vitaminlarga boy va foydali oziq-ovqat."
+    },
+    {
+        "name": "Kivi Sungold",
+        "image": "https://images.openfoodfacts.org/images/products/000/009/400/1129/front_en.55.400.jpg",
+        "calories": 61.7,
+        "price": 18408,
+        "brand": "ALDI Zespri, Catania, Sungold, Zespri",
+        "category": "mevalar",
+        "nutrition_grade": "a",
+        "description": "Kivi Sungold — tabiiy mevalar mahsuloti, vitaminlarga boy va foydali oziq-ovqat."
+    },
+    {
+        "name": "Ko‘k mevalar",
+        "image": "https://images.openfoodfacts.org/images/products/000/000/325/7012/front_en.10.400.jpg",
+        "calories": 45,
+        "price": 18307,
+        "brand": "Tesco",
+        "category": "mevalar",
+        "nutrition_grade": "a",
+        "description": "Ko‘k mevalar — tabiiy mevalar mahsuloti, vitaminlarga boy va foydali oziq-ovqat."
+    },
+    {
+        "name": "Pruneaux d'AGEN dénoyautés",
+        "image": "https://images.openfoodfacts.org/images/products/350/249/017/7127/front_fr.55.400.jpg",
+        "calories": 232,
+        "price": 28596,
+        "brand": "Maïtre PRUNILLE",
+        "category": "mevalar",
+        "nutrition_grade": "b",
+        "description": "Pruneaux d'AGEN dénoyautés — tabiiy mevalar mahsuloti, vitaminlarga boy va foydali oziq-ovqat."
+    },
+    {
+        "name": "Ripe va Ready Medium Avakado",
+        "image": "https://images.openfoodfacts.org/images/products/000/000/160/0322/front_en.27.400.jpg",
+        "calories": 197,
+        "price": 43042,
+        "brand": "Sainsbury's",
+        "category": "mevalar",
+        "nutrition_grade": "a",
+        "description": "Ripe va Ready Medium Avakado — tabiiy mevalar mahsuloti, vitaminlarga boy va foydali oziq-ovqat."
+    },
+    {
+        "name": "Sweet Ananas Slices In Juice",
+        "image": "https://images.openfoodfacts.org/images/products/408/860/017/3108/front_en.3.400.jpg",
+        "calories": 51,
+        "price": 37934,
+        "brand": "Four Seasons",
+        "category": "mevalar",
+        "nutrition_grade": "a",
+        "description": "Sweet Ananas Slices In Juice — tabiiy mevalar mahsuloti, vitaminlarga boy va foydali oziq-ovqat."
+    },
+    {
+        "name": "Olmas Myrtille SSA",
+        "image": "https://images.openfoodfacts.org/images/products/329/776/009/7990/front_fr.53.400.jpg",
+        "calories": 55,
+        "price": 17934,
+        "brand": "Charles & Alice",
+        "category": "mevalar",
+        "nutrition_grade": "a",
+        "description": "Olmas Myrtille SSA — tabiiy mevalar mahsuloti, vitaminlarga boy va foydali oziq-ovqat."
+    },
+    {
+        "name": "TK - Beerenmischung",
+        "image": "https://images.openfoodfacts.org/images/products/405/648/965/5664/front_en.71.400.jpg",
+        "calories": 61,
+        "price": 36732,
+        "brand": "Freshona",
+        "category": "mevalar",
+        "nutrition_grade": "a",
+        "description": "TK - Beerenmischung — tabiiy mevalar mahsuloti, vitaminlarga boy va foydali oziq-ovqat."
+    },
+    {
+        "name": "Avakado",
+        "image": "https://images.openfoodfacts.org/images/products/000/002/022/9030/front_en.71.400.jpg",
+        "calories": 190,
+        "price": 35755,
+        "brand": "Lidl",
+        "category": "mevalar",
+        "nutrition_grade": "a",
+        "description": "Avakado — tabiiy mevalar mahsuloti, vitaminlarga boy va foydali oziq-ovqat."
+    },
+    {
+        "name": "STRAWBERRIES",
+        "image": "https://images.openfoodfacts.org/images/products/000/000/325/7340/front_en.42.400.jpg",
+        "calories": 33,
+        "price": 34274,
+        "brand": "TESCO",
+        "category": "mevalar",
+        "nutrition_grade": "a",
+        "description": "STRAWBERRIES — tabiiy mevalar mahsuloti, vitaminlarga boy va foydali oziq-ovqat."
+    },
+    {
+        "name": "Ripe and Ready Avakado",
+        "image": "https://images.openfoodfacts.org/images/products/000/001/009/6376/front_en.19.400.jpg",
+        "calories": 198,
+        "price": 26834,
+        "brand": "Tesco",
+        "category": "mevalar",
+        "nutrition_grade": "a",
+        "description": "Ripe and Ready Avakado — tabiiy mevalar mahsuloti, vitaminlarga boy va foydali oziq-ovqat."
+    },
+    {
+        "name": "Ko‘k mevalar",
+        "image": "https://images.openfoodfacts.org/images/products/000/000/035/8415/front_en.10.400.jpg",
+        "calories": 43,
+        "price": 24847,
+        "brand": "Saintsbury's",
+        "category": "mevalar",
+        "nutrition_grade": "a",
+        "description": "Ko‘k mevalar — tabiiy mevalar mahsuloti, vitaminlarga boy va foydali oziq-ovqat."
+    },
+    {
+        "name": "Bananes",
+        "image": "https://images.openfoodfacts.org/images/products/334/776/100/0663/front_fr.23.400.jpg",
+        "calories": 93,
+        "price": 22668,
+        "brand": "Banane de Guadeloupe & Martinique, Fruidor",
+        "category": "mevalar",
+        "nutrition_grade": "a",
+        "description": "Bananes — tabiiy mevalar mahsuloti, vitaminlarga boy va foydali oziq-ovqat."
+    },
+    {
+        "name": "Olma vanille",
+        "image": "https://images.openfoodfacts.org/images/products/324/541/462/0148/front_fr.65.400.jpg",
+        "calories": 52,
+        "price": 25588,
+        "brand": "Carrefour",
+        "category": "mevalar",
+        "nutrition_grade": "a",
+        "description": "Olma vanille — tabiiy mevalar mahsuloti, vitaminlarga boy va foydali oziq-ovqat."
+    },
+    {
+        "name": "2 Avocats mûrs à point",
+        "image": "https://images.openfoodfacts.org/images/products/356/470/044/8687/front_fr.54.400.jpg",
+        "calories": 205,
+        "price": 26147,
+        "brand": "Marque Repère,Notre Jardin",
+        "category": "mevalar",
+        "nutrition_grade": "a",
+        "description": "2 Avocats mûrs à point — tabiiy mevalar mahsuloti, vitaminlarga boy va foydali oziq-ovqat."
+    },
+    {
+        "name": "Aralash frutos rojos",
+        "image": "https://images.openfoodfacts.org/images/products/848/000/061/0898/front_es.38.400.jpg",
+        "calories": 39,
+        "price": 42890,
+        "brand": "Hacendado",
+        "category": "mevalar",
+        "nutrition_grade": "a",
+        "description": "Aralash frutos rojos — tabiiy mevalar mahsuloti, vitaminlarga boy va foydali oziq-ovqat."
+    },
+    {
+        "name": "Epler",
+        "image": "https://images.openfoodfacts.org/images/products/370/047/661/1638/front_fr.67.400.jpg",
+        "calories": 62.2,
+        "price": 21655,
+        "brand": "Blue-whale, Pink Lady",
+        "category": "mevalar",
+        "nutrition_grade": "a",
+        "description": "Epler — tabiiy mevalar mahsuloti, vitaminlarga boy va foydali oziq-ovqat."
+    },
+    {
+        "name": "Tesco Green Seedless Grapes Pack",
+        "image": "https://images.openfoodfacts.org/images/products/000/001/006/6096/front_en.20.400.jpg",
+        "calories": 73.4,
+        "price": 20817,
+        "brand": "Tesco",
+        "category": "mevalar",
+        "nutrition_grade": "a",
+        "description": "Tesco Green Seedless Grapes Pack — tabiiy mevalar mahsuloti, vitaminlarga boy va foydali oziq-ovqat."
+    },
+    {
+        "name": "Bananes",
+        "image": "https://images.openfoodfacts.org/images/products/356/470/714/1710/front_en.46.400.jpg",
+        "calories": 97,
+        "price": 35857,
+        "brand": "Bio Village, Marque Repère",
+        "category": "mevalar",
+        "nutrition_grade": "a",
+        "description": "Bananes — tabiiy mevalar mahsuloti, vitaminlarga boy va foydali oziq-ovqat."
+    },
+    {
+        "name": "British Qulupnaylar",
+        "image": "https://images.openfoodfacts.org/images/products/000/000/046/1795/front_en.5.400.jpg",
+        "calories": 32,
+        "price": 29130,
+        "brand": "Sainsbury's",
+        "category": "mevalar",
+        "nutrition_grade": "a",
+        "description": "British Qulupnaylar — tabiiy mevalar mahsuloti, vitaminlarga boy va foydali oziq-ovqat."
+    },
+    {
+        "name": "Sut Demi-écrémé",
+        "image": "https://images.openfoodfacts.org/images/products/000/002/600/6079/front_fr.56.400.jpg",
+        "calories": 46,
+        "price": 37032,
+        "brand": "BON ET BIO",
+        "category": "mevalar",
+        "nutrition_grade": "b",
+        "description": "Sut Demi-écrémé — tabiiy mevalar mahsuloti, vitaminlarga boy va foydali oziq-ovqat."
+    },
+    {
+        "name": "Olma de nouvelle Aquitaine et citron de Corse",
+        "image": "https://images.openfoodfacts.org/images/products/405/648/904/1115/front_fr.3.400.jpg",
+        "calories": 87,
+        "price": 18153,
+        "brand": "Lidl, Saveurs de nos Régions",
+        "category": "mevalar",
+        "nutrition_grade": "b",
+        "description": "Olma de nouvelle Aquitaine et citron de Corse — tabiiy mevalar mahsuloti, vitaminlarga boy va foydali oziq-ovqat."
+    },
+    {
+        "name": "Scottish Qulupnaylar",
+        "image": "https://images.openfoodfacts.org/images/products/000/000/081/2726/front_en.28.400.jpg",
+        "calories": 39,
+        "price": 39950,
+        "brand": "M&S Eat Well",
+        "category": "mevalar",
+        "nutrition_grade": "a",
+        "description": "Scottish Qulupnaylar — tabiiy mevalar mahsuloti, vitaminlarga boy va foydali oziq-ovqat."
+    },
+    {
+        "name": "POM'POTES Kompots Gourdes BIO Olma Nature 12x90g 60UC",
+        "image": "https://images.openfoodfacts.org/images/products/302/176/241/2129/front_fr.125.400.jpg",
+        "calories": 53,
+        "price": 33364,
+        "brand": "Materne, POM'POTES, Bio",
+        "category": "mevalar",
+        "nutrition_grade": "a",
+        "description": "POM'POTES Kompots Gourdes BIO Olma Nature 12x90g 60UC — tabiiy mevalar mahsuloti, vitaminlarga boy va foydali oziq-ovqat."
+    },
+    {
+        "name": "Purée de Olma Nok Williams SSA",
+        "image": "https://images.openfoodfacts.org/images/products/360/858/078/7235/front_fr.76.400.jpg",
+        "calories": 53,
+        "price": 18609,
+        "brand": "Andros",
+        "category": "mevalar",
+        "nutrition_grade": "a",
+        "description": "Purée de Olma Nok Williams SSA — tabiiy mevalar mahsuloti, vitaminlarga boy va foydali oziq-ovqat."
+    },
+    {
+        "name": "Concentré de tomates Aicha",
+        "image": "https://images.openfoodfacts.org/images/products/611/102/109/0049/front_fr.4.400.jpg",
+        "calories": 31.6,
+        "price": 41210,
+        "brand": "Aicha",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Concentré de tomates Aicha — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Gehackte Pomidorn",
+        "image": "https://images.openfoodfacts.org/images/products/000/002/000/4132/front_en.397.400.jpg",
+        "calories": 35,
+        "price": 16461,
+        "brand": "Baresa",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Gehackte Pomidorn — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Yer yong‘og‘i pastasi",
+        "image": "https://images.openfoodfacts.org/images/products/405/648/962/0938/front_fr.90.400.jpg",
+        "calories": 683,
+        "price": 43948,
+        "brand": "Maribel",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Yer yong‘og‘i pastasi — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Italian Chopped Pomidorlar",
+        "image": "https://images.openfoodfacts.org/images/products/503/102/116/4032/front_en.22.400.jpg",
+        "calories": 25,
+        "price": 43157,
+        "brand": "Tesco",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Italian Chopped Pomidorlar — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Sabzilar rapees citron dnp 320g",
+        "image": "https://images.openfoodfacts.org/images/products/308/368/114/8619/front_en.58.400.jpg",
+        "calories": 73,
+        "price": 34472,
+        "brand": "Bonduelle",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Sabzilar rapees citron dnp 320g — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Chopped Pomidorlar",
+        "image": "https://images.openfoodfacts.org/images/products/505/754/574/5946/front_en.33.400.jpg",
+        "calories": 22,
+        "price": 35471,
+        "brand": "Tesco",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Chopped Pomidorlar — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Baqlajon cuisinées à la Provençal",
+        "image": "https://images.openfoodfacts.org/images/products/308/368/109/3926/front_en.86.400.jpg",
+        "calories": 83,
+        "price": 20879,
+        "brand": "Cassegrain",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Baqlajon cuisinées à la Provençal — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Kabachki à la Provençale 1/2",
+        "image": "https://images.openfoodfacts.org/images/products/308/368/109/4459/front_en.41.400.jpg",
+        "calories": 63,
+        "price": 23003,
+        "brand": "Cassegrain",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Kabachki à la Provençale 1/2 — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "passierte Pomidor",
+        "image": "https://images.openfoodfacts.org/images/products/000/002/088/4260/front_en.168.400.jpg",
+        "calories": 35,
+        "price": 21957,
+        "brand": "Baresa, Barrsa, Freshona",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "passierte Pomidor — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Chopped tomatoes",
+        "image": "https://images.openfoodfacts.org/images/products/000/002/016/4072/front_en.29.400.jpg",
+        "calories": 20,
+        "price": 43926,
+        "brand": "Simply",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Chopped tomatoes — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Solis",
+        "image": "https://images.openfoodfacts.org/images/products/844/529/120/9039/front_fr.3.400.jpg",
+        "calories": 68,
+        "price": 32442,
+        "brand": "Nestle nutrition",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Solis — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Sabzilar râpées à la ciboulette",
+        "image": "https://images.openfoodfacts.org/images/products/000/002/002/3751/front_fr.134.400.jpg",
+        "calories": 79,
+        "price": 16037,
+        "brand": "Saladinettes",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Sabzilar râpées à la ciboulette — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Loviya Verts extra-fins 1/2",
+        "image": "https://images.openfoodfacts.org/images/products/308/368/109/4923/front_fr.83.400.jpg",
+        "calories": 20,
+        "price": 17459,
+        "brand": "Cassegrain",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Loviya Verts extra-fins 1/2 — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Italian Chopped Pomidorlar in tomato juice",
+        "image": "https://images.openfoodfacts.org/images/products/000/000/126/8423/front_en.24.400.jpg",
+        "calories": 24,
+        "price": 36731,
+        "brand": "by sainsbury's",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Italian Chopped Pomidorlar in tomato juice — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Chopped Pomidorlar",
+        "image": "https://images.openfoodfacts.org/images/products/501/006/100/1613/front_en.36.400.jpg",
+        "calories": 23,
+        "price": 37045,
+        "brand": "Napolina",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Chopped Pomidorlar — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Geschälte Pomidorn",
+        "image": "https://images.openfoodfacts.org/images/products/800/511/006/0007/front_de.117.400.jpg",
+        "calories": 22,
+        "price": 44900,
+        "brand": "Mutti, Oluf lorentzen as",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Geschälte Pomidorn — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Sabzilar rapees citron dnp 500g",
+        "image": "https://images.openfoodfacts.org/images/products/308/368/114/8626/front_fr.33.400.jpg",
+        "calories": 73,
+        "price": 18743,
+        "brand": "Bonduelle",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Sabzilar rapees citron dnp 500g — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Chopped Pomidorlar 4pk",
+        "image": "https://images.openfoodfacts.org/images/products/501/006/124/1699/front_en.29.400.jpg",
+        "calories": 23,
+        "price": 17833,
+        "brand": "Napolina",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Chopped Pomidorlar 4pk — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Pomidor va Basil",
+        "image": "https://images.openfoodfacts.org/images/products/505/605/330/5727/front_en.3.400.jpg",
+        "calories": 36.1,
+        "price": 30160,
+        "brand": "New Covent Garden Soup Co.",
+        "category": "sabzavotlar",
+        "nutrition_grade": "b",
+        "description": "Pomidor va Basil — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Double Concentré de Pomidors",
+        "image": "https://images.openfoodfacts.org/images/products/619/405/550/0135/front_fr.86.400.jpg",
+        "calories": 84,
+        "price": 36516,
+        "brand": "Sicam",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Double Concentré de Pomidors — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Pomidor triturado",
+        "image": "https://images.openfoodfacts.org/images/products/848/000/016/0447/front_es.40.400.jpg",
+        "calories": 28,
+        "price": 22718,
+        "brand": "Hacendado",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Pomidor triturado — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Kari de pois chiches aux épices douces d'aucy 380g",
+        "image": "https://images.openfoodfacts.org/images/products/301/780/050/9937/front_fr.42.400.jpg",
+        "calories": 89,
+        "price": 18267,
+        "brand": "D'aucy",
+        "category": "sabzavotlar",
+        "nutrition_grade": "b",
+        "description": "Kari de pois chiches aux épices douces d'aucy 380g — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Pomidor pastasi Pomidors concassées fines",
+        "image": "https://images.openfoodfacts.org/images/products/800/511/017/0300/front_fr.87.400.jpg",
+        "calories": 26,
+        "price": 20284,
+        "brand": "Mutti",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Pomidor pastasi Pomidors concassées fines — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "GOLDEN VEGETAB",
+        "image": "https://images.openfoodfacts.org/images/products/501/003/401/3995/front_en.29.400.jpg",
+        "calories": 151,
+        "price": 17324,
+        "brand": "Ben's Original",
+        "category": "sabzavotlar",
+        "nutrition_grade": "b",
+        "description": "GOLDEN VEGETAB — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Poêlée Paysanne 750g",
+        "image": "https://images.openfoodfacts.org/images/products/308/368/111/6939/front_en.37.400.jpg",
+        "calories": 67,
+        "price": 23135,
+        "brand": "Bonduelle",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Poêlée Paysanne 750g — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Pomidorlar - Cherry Pomidorlar Italian",
+        "image": "https://images.openfoodfacts.org/images/products/000/002/006/8516/front_en.27.400.jpg",
+        "calories": 12,
+        "price": 32643,
+        "brand": "Italiamo",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Pomidorlar - Cherry Pomidorlar Italian — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Loviya Verts extra-fins 1/4",
+        "image": "https://images.openfoodfacts.org/images/products/308/368/105/7843/front_en.88.400.jpg",
+        "calories": 20,
+        "price": 29530,
+        "brand": "Cassegrain",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Loviya Verts extra-fins 1/4 — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Loviya Verts extra-fins 4/4",
+        "image": "https://images.openfoodfacts.org/images/products/308/368/102/7860/front_fr.81.400.jpg",
+        "calories": 20,
+        "price": 19581,
+        "brand": "Cassegrain",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Loviya Verts extra-fins 4/4 — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Bouillon Légumes",
+        "image": "https://images.openfoodfacts.org/images/products/871/256/643/2127/front_fr.73.400.jpg",
+        "calories": 336,
+        "price": 25071,
+        "brand": "Knorr",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Bouillon Légumes — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Pomidor pastasi Finely Chopped Italian Pomidorlar",
+        "image": "https://images.openfoodfacts.org/images/products/405/648/971/3050/front_en.3.400.jpg",
+        "calories": 22,
+        "price": 17159,
+        "brand": "Lidl",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Pomidor pastasi Finely Chopped Italian Pomidorlar — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Butter beans in water",
+        "image": "https://images.openfoodfacts.org/images/products/000/000/116/7160/front_en.28.400.jpg",
+        "calories": 108,
+        "price": 29296,
+        "brand": "Sainsbury's",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Butter beans in water — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Italian Finely Chopped Pomidorlar",
+        "image": "https://images.openfoodfacts.org/images/products/501/020/461/2287/front_en.26.400.jpg",
+        "calories": 25,
+        "price": 32356,
+        "brand": "Tesco",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Italian Finely Chopped Pomidorlar — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Passata Sieved Pomidorlar",
+        "image": "https://images.openfoodfacts.org/images/products/500/023/281/9109/front_fr.4.400.jpg",
+        "calories": 28,
+        "price": 20921,
+        "brand": "Napolina",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Passata Sieved Pomidorlar — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Peeled Pomidorlar in tomato juice",
+        "image": "https://images.openfoodfacts.org/images/products/000/002/019/8107/front_en.226.400.jpg",
+        "calories": 23,
+        "price": 25971,
+        "brand": "Baresa,Lidl",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Peeled Pomidorlar in tomato juice — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Pomidornpuree",
+        "image": "https://images.openfoodfacts.org/images/products/000/002/019/8114/front_en.123.400.jpg",
+        "calories": 94,
+        "price": 44445,
+        "brand": "Baresa, Freshona",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Pomidornpuree — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "CHOPPED TOMATOES IN TOMATO JUICE",
+        "image": "https://images.openfoodfacts.org/images/products/000/000/116/3575/front_en.23.400.jpg",
+        "calories": 19,
+        "price": 44159,
+        "brand": "Sainsbury's Basics",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "CHOPPED TOMATOES IN TOMATO JUICE — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Mes Sabzilar râpées à la ciboulette",
+        "image": "https://images.openfoodfacts.org/images/products/328/178/089/4950/front_fr.18.400.jpg",
+        "calories": 79,
+        "price": 25307,
+        "brand": "Pierre Martinet",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Mes Sabzilar râpées à la ciboulette — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Coleslaw, choux blanc et carottes",
+        "image": "https://images.openfoodfacts.org/images/products/000/002/063/8757/front_fr.81.400.jpg",
+        "calories": 109,
+        "price": 28677,
+        "brand": "Saladinettes",
+        "category": "sabzavotlar",
+        "nutrition_grade": "b",
+        "description": "Coleslaw, choux blanc et carottes — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Petits Pois et Sabzilar 1/4",
+        "image": "https://images.openfoodfacts.org/images/products/308/368/048/2042/front_fr.87.400.jpg",
+        "calories": 59,
+        "price": 39175,
+        "brand": "Cassegrain",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Petits Pois et Sabzilar 1/4 — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Chopped Pomidorlar in Pomidor Juice",
+        "image": "https://images.openfoodfacts.org/images/products/000/004/087/9345/front_en.78.400.jpg",
+        "calories": 35,
+        "price": 44518,
+        "brand": "Baresa,Freshona",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Chopped Pomidorlar in Pomidor Juice — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Pomidorr Hakkede Økologisk 400g Mutti",
+        "image": "https://images.openfoodfacts.org/images/products/800/511/041/3520/front_en.137.400.jpg",
+        "calories": 25,
+        "price": 35378,
+        "brand": "Oluf lorentzen as, Mutti",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Pomidorr Hakkede Økologisk 400g Mutti — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Chopped tomatoes in tomato juice",
+        "image": "https://images.openfoodfacts.org/images/products/408/860/055/0862/front_en.3.400.jpg",
+        "calories": 22,
+        "price": 21392,
+        "brand": "Everyday Essentials",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Chopped tomatoes in tomato juice — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Sabzilar râpées Au jus de citron*",
+        "image": "https://images.openfoodfacts.org/images/products/327/019/021/2980/front_fr.129.400.jpg",
+        "calories": 77,
+        "price": 42465,
+        "brand": "Carrefour",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Sabzilar râpées Au jus de citron* — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Pomidor pastasi",
+        "image": "https://images.openfoodfacts.org/images/products/800/511/017/2106/front_fr.38.400.jpg",
+        "calories": 26,
+        "price": 25806,
+        "brand": "Mutti",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Pomidor pastasi — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Kabachki à la Provençale 1/4",
+        "image": "https://images.openfoodfacts.org/images/products/308/368/101/7809/front_fr.55.400.jpg",
+        "calories": 62,
+        "price": 34030,
+        "brand": "Cassegrain",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Kabachki à la Provençale 1/4 — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Sabzilar",
+        "image": "https://images.openfoodfacts.org/images/products/325/039/146/8423/front_fr.63.400.jpg",
+        "calories": 77,
+        "price": 39818,
+        "brand": "Monique ranou",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Sabzilar — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Italian chopped tomatoes in tomato juice",
+        "image": "https://images.openfoodfacts.org/images/products/501/025/153/5478/front_en.3.400.jpg",
+        "calories": 21,
+        "price": 19978,
+        "brand": "Morrisons",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Italian chopped tomatoes in tomato juice — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Piquillo Paprika",
+        "image": "https://images.openfoodfacts.org/images/products/000/002/026/6745/front_en.84.400.jpg",
+        "calories": 33,
+        "price": 40446,
+        "brand": "Freshona",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Piquillo Paprika — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Loviya verts extra fins rangés d'aucy 440g",
+        "image": "https://images.openfoodfacts.org/images/products/301/780/020/7901/front_fr.160.400.jpg",
+        "calories": 24,
+        "price": 43817,
+        "brand": "D'aucy",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Loviya verts extra fins rangés d'aucy 440g — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Poêlée Parisienne 750g",
+        "image": "https://images.openfoodfacts.org/images/products/308/368/111/6908/front_en.42.400.jpg",
+        "calories": 91,
+        "price": 26080,
+        "brand": "Bonduelle",
+        "category": "sabzavotlar",
+        "nutrition_grade": "b",
+        "description": "Poêlée Parisienne 750g — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Pomidors cerises allongées",
+        "image": "https://images.openfoodfacts.org/images/products/350/418/296/0345/front_fr.20.400.jpg",
+        "calories": 19.3,
+        "price": 42474,
+        "brand": "Azura, Disma International",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Pomidors cerises allongées — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "La Poêlée Champêtre 950g",
+        "image": "https://images.openfoodfacts.org/images/products/308/368/111/7042/front_en.29.400.jpg",
+        "calories": 45,
+        "price": 38819,
+        "brand": "Bonduelle",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "La Poêlée Champêtre 950g — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Baqlajon cuisinées à la provençale d'aucy 380g",
+        "image": "https://images.openfoodfacts.org/images/products/301/780/050/9968/front_fr.15.400.jpg",
+        "calories": 72,
+        "price": 40639,
+        "brand": "D'aucy",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Baqlajon cuisinées à la provençale d'aucy 380g — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Sariyog‘ loviyalar in Water",
+        "image": "https://images.openfoodfacts.org/images/products/500/023/284/4255/front_en.18.400.jpg",
+        "calories": 109,
+        "price": 40476,
+        "brand": "Napolina",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Sariyog‘ loviyalar in Water — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Canned Pomidorlar",
+        "image": "https://images.openfoodfacts.org/images/products/406/145/983/4246/front_en.4.400.jpg",
+        "calories": 22,
+        "price": 27225,
+        "brand": "Aldi",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Canned Pomidorlar — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Sariyog‘ loviyalar in water",
+        "image": "https://images.openfoodfacts.org/images/products/000/002/047/5581/front_en.3.400.jpg",
+        "calories": 102,
+        "price": 29143,
+        "brand": "Campo Largo",
+        "category": "sabzavotlar",
+        "nutrition_grade": "b",
+        "description": "Sariyog‘ loviyalar in water — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Purée de tomates nature",
+        "image": "https://images.openfoodfacts.org/images/products/356/007/032/3289/front_fr.105.400.jpg",
+        "calories": 22,
+        "price": 33108,
+        "brand": "Carrefour",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Purée de tomates nature — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Rosii Cirio Diced Pomidorlar",
+        "image": "https://images.openfoodfacts.org/images/products/800/032/001/0118/front_en.194.400.jpg",
+        "calories": 27,
+        "price": 35776,
+        "brand": "Cirio, Cirio La polpa rustica",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Rosii Cirio Diced Pomidorlar — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Loviya verts extra-fins coupés",
+        "image": "https://images.openfoodfacts.org/images/products/330/713/080/1154/front_fr.92.400.jpg",
+        "calories": 34,
+        "price": 19795,
+        "brand": "Jardin bio, LEA Nature",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Loviya verts extra-fins coupés — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Chunky chopped tomatoes",
+        "image": "https://images.openfoodfacts.org/images/products/408/860/014/5112/front_en.3.400.jpg",
+        "calories": 22,
+        "price": 20267,
+        "brand": "Aldi",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Chunky chopped tomatoes — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Loviya verts extra-fins 4/4",
+        "image": "https://images.openfoodfacts.org/images/products/308/368/112/7850/front_fr.36.400.jpg",
+        "calories": 20,
+        "price": 18286,
+        "brand": "Bonduelle",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Loviya verts extra-fins 4/4 — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Baqlajon cuisinées à la Provençal",
+        "image": "https://images.openfoodfacts.org/images/products/308/368/101/7779/front_fr.65.400.jpg",
+        "calories": 83,
+        "price": 37291,
+        "brand": "Cassegrain",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Baqlajon cuisinées à la Provençal — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Peeled Plum Pomidorlar",
+        "image": "https://images.openfoodfacts.org/images/products/501/006/100/1019/front_en.18.400.jpg",
+        "calories": 22,
+        "price": 36653,
+        "brand": "Napolina",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Peeled Plum Pomidorlar — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Peeled Pomidorlar",
+        "image": "https://images.openfoodfacts.org/images/products/000/002/016/4027/front_en.48.400.jpg",
+        "calories": 27.5,
+        "price": 40677,
+        "brand": "Baresa",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Peeled Pomidorlar — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Chopped Pomidorlar",
+        "image": "https://images.openfoodfacts.org/images/products/505/478/102/5702/front_en.28.400.jpg",
+        "calories": 22,
+        "price": 23639,
+        "brand": "Asda",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Chopped Pomidorlar — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Poêlée lég va céréales - Butternut",
+        "image": "https://images.openfoodfacts.org/images/products/308/368/110/5247/front_fr.51.400.jpg",
+        "calories": 89,
+        "price": 17941,
+        "brand": "Bonduelle",
+        "category": "sabzavotlar",
+        "nutrition_grade": "b",
+        "description": "Poêlée lég va céréales - Butternut — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "SuperGreen Salat",
+        "image": "https://images.openfoodfacts.org/images/products/000/000/007/5473/front_en.7.400.jpg",
+        "calories": 66,
+        "price": 42837,
+        "brand": "Marks & Spencer",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "SuperGreen Salat — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Sabzilar rapees citron dnp 180g",
+        "image": "https://images.openfoodfacts.org/images/products/308/368/114/8602/front_en.22.400.jpg",
+        "calories": 73,
+        "price": 25218,
+        "brand": "Bonduelle",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Sabzilar rapees citron dnp 180g — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Growers Harvest Microwave Wholegrain Guruch",
+        "image": "https://images.openfoodfacts.org/images/products/505/969/769/3564/front_en.3.400.jpg",
+        "calories": 167,
+        "price": 40701,
+        "brand": "Tesco",
+        "category": "sabzavotlar",
+        "nutrition_grade": "b",
+        "description": "Growers Harvest Microwave Wholegrain Guruch — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Passata Rustica - Basil And Oregano",
+        "image": "https://images.openfoodfacts.org/images/products/408/860/055/1739/front_en.3.400.jpg",
+        "calories": 34,
+        "price": 32575,
+        "brand": "Aldi",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Passata Rustica - Basil And Oregano — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Butter beans",
+        "image": "https://images.openfoodfacts.org/images/products/408/860/014/0865/front_en.10.400.jpg",
+        "calories": 103,
+        "price": 43872,
+        "brand": "Aldi",
+        "category": "sabzavotlar",
+        "nutrition_grade": "b",
+        "description": "Butter beans — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Peeled Plum Pomidorlar",
+        "image": "https://images.openfoodfacts.org/images/products/408/860/047/5844/front_en.26.400.jpg",
+        "calories": 22,
+        "price": 25565,
+        "brand": "Cucina",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Peeled Plum Pomidorlar — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Chopped Pomidorlar in Pomidor Sauce",
+        "image": "https://images.openfoodfacts.org/images/products/501/363/531/2108/front_en.30.400.jpg",
+        "calories": 16,
+        "price": 29488,
+        "brand": "KTC",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Chopped Pomidorlar in Pomidor Sauce — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Petits Pois 1/2",
+        "image": "https://images.openfoodfacts.org/images/products/308/368/109/4282/front_fr.71.400.jpg",
+        "calories": 75,
+        "price": 37237,
+        "brand": "Cassegrain",
+        "category": "sabzavotlar",
+        "nutrition_grade": "b",
+        "description": "Petits Pois 1/2 — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Pomidor Pelado Troceado",
+        "image": "https://images.openfoodfacts.org/images/products/848/000/016/0225/front_es.27.400.jpg",
+        "calories": 31,
+        "price": 33566,
+        "brand": "Hacendado",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Pomidor Pelado Troceado — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Kabachki cuisinées à la provençale d'aucy 380g",
+        "image": "https://images.openfoodfacts.org/images/products/301/780/050/9999/front_fr.21.400.jpg",
+        "calories": 79,
+        "price": 25617,
+        "brand": "D'aucy",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Kabachki cuisinées à la provençale d'aucy 380g — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Poêlée de légumes à la provencale",
+        "image": "https://images.openfoodfacts.org/images/products/327/016/075/4656/front_fr.86.400.jpg",
+        "calories": 63,
+        "price": 35725,
+        "brand": "Picard",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Poêlée de légumes à la provencale — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Petits Pois 1/4",
+        "image": "https://images.openfoodfacts.org/images/products/308/368/048/2035/front_fr.79.400.jpg",
+        "calories": 75,
+        "price": 18681,
+        "brand": "Cassegrain",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Petits Pois 1/4 — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Bulgar qalampiri cuisinés piment Espelette",
+        "image": "https://images.openfoodfacts.org/images/products/308/368/105/9793/front_fr.71.400.jpg",
+        "calories": 70,
+        "price": 44662,
+        "brand": "Cassegrain",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Bulgar qalampiri cuisinés piment Espelette — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Savoury Chicken Flavour Guruch",
+        "image": "https://images.openfoodfacts.org/images/products/501/003/401/3957/front_en.3.400.jpg",
+        "calories": 160,
+        "price": 33734,
+        "brand": "Ben’s Original",
+        "category": "sabzavotlar",
+        "nutrition_grade": "b",
+        "description": "Savoury Chicken Flavour Guruch — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Petits pois extra fins et carottes d'aucy 530g",
+        "image": "https://images.openfoodfacts.org/images/products/301/780/000/3558/front_fr.88.400.jpg",
+        "calories": 58,
+        "price": 30844,
+        "brand": "D'aucy",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Petits pois extra fins et carottes d'aucy 530g — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Sabzilar",
+        "image": "https://images.openfoodfacts.org/images/products/325/039/047/3275/front_fr.63.400.jpg",
+        "calories": 72,
+        "price": 23107,
+        "brand": "Monique ranou",
+        "category": "sabzavotlar",
+        "nutrition_grade": "a",
+        "description": "Sabzilar — yangi sabzavotlardan tayyorlangan, sog‘lom ovqatlanish uchun ajoyib tanlov."
+    },
+    {
+        "name": "Mandeln",
+        "image": "https://images.openfoodfacts.org/images/products/000/002/072/4696/front_en.384.400.jpg",
+        "calories": 621,
+        "price": 15659,
+        "brand": "Alesto,Lidl",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "a",
+        "description": "Mandeln — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Cashewkerne",
+        "image": "https://images.openfoodfacts.org/images/products/000/002/026/7605/front_en.503.400.jpg",
+        "calories": 600,
+        "price": 35436,
+        "brand": "Alesto, 12 x Lidl 10.25",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "b",
+        "description": "Cashewkerne — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Yong‘oq yadrolari",
+        "image": "https://images.openfoodfacts.org/images/products/000/002/000/5733/front_en.596.400.jpg",
+        "calories": 712,
+        "price": 16897,
+        "brand": "Alesto",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "b",
+        "description": "Yong‘oq yadrolari — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "simply nutty muesli",
+        "image": "https://images.openfoodfacts.org/images/products/501/835/701/2497/front_en.34.400.jpg",
+        "calories": 376,
+        "price": 27663,
+        "brand": "dorset cereals",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "a",
+        "description": "simply nutty muesli — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Pistacchi",
+        "image": "https://images.openfoodfacts.org/images/products/000/002/033/7292/front_en.84.400.jpg",
+        "calories": 605,
+        "price": 33918,
+        "brand": "AlestoLidl",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "a",
+        "description": "Pistacchi — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Yer yong‘og‘i pastasi",
+        "image": "https://images.openfoodfacts.org/images/products/405/648/962/0938/front_fr.90.400.jpg",
+        "calories": 683,
+        "price": 16181,
+        "brand": "Maribel",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "a",
+        "description": "Yer yong‘og‘i pastasi — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Noisettes grillées",
+        "image": "https://images.openfoodfacts.org/images/products/405/648/903/3042/front_en.74.400.jpg",
+        "calories": 723,
+        "price": 32786,
+        "brand": "Alesto",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "a",
+        "description": "Noisettes grillées — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Nuez natural pelada",
+        "image": "https://images.openfoodfacts.org/images/products/848/000/034/0245/front_en.105.400.jpg",
+        "calories": 716,
+        "price": 24759,
+        "brand": "Hacendado",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "a",
+        "description": "Nuez natural pelada — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Paahdettu maapähkinä",
+        "image": "https://images.openfoodfacts.org/images/products/000/002/061/5420/front_en.122.400.jpg",
+        "calories": 626,
+        "price": 31414,
+        "brand": "Alesto",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "b",
+        "description": "Paahdettu maapähkinä — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Pecan Yong‘oqlar natural",
+        "image": "https://images.openfoodfacts.org/images/products/405/648/968/2677/front_en.57.400.jpg",
+        "calories": 725,
+        "price": 16773,
+        "brand": "Alesto",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "a",
+        "description": "Pecan Yong‘oqlar natural — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Graze Marmite Crunch",
+        "image": "https://images.openfoodfacts.org/images/products/505/595/870/4161/front_en.34.400.jpg",
+        "calories": 441,
+        "price": 27694,
+        "brand": "Graze",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "b",
+        "description": "Graze Marmite Crunch — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Almendra natural",
+        "image": "https://images.openfoodfacts.org/images/products/848/000/034/8654/front_es.89.400.jpg",
+        "calories": 642,
+        "price": 35551,
+        "brand": "Hacendado",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "a",
+        "description": "Almendra natural — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Mélange de noix et d'olives",
+        "image": "https://images.openfoodfacts.org/images/products/000/002/035/3032/front_de.104.400.jpg",
+        "calories": 645,
+        "price": 41036,
+        "brand": "Alesto",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "b",
+        "description": "Mélange de noix et d'olives — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Crema de cacahuete 100% crunchy",
+        "image": "https://images.openfoodfacts.org/images/products/848/000/022/8369/front_en.36.400.jpg",
+        "calories": 608,
+        "price": 43914,
+        "brand": "Hacendado",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "a",
+        "description": "Crema de cacahuete 100% crunchy — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Amandes grillées sans sel",
+        "image": "https://images.openfoodfacts.org/images/products/350/249/009/9177/front_en.76.400.jpg",
+        "calories": 637,
+        "price": 36052,
+        "brand": "maître prunille",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "a",
+        "description": "Amandes grillées sans sel — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Walnuts XXL",
+        "image": "https://images.openfoodfacts.org/images/products/000/002/081/6438/front_en.85.400.jpg",
+        "calories": 712,
+        "price": 16432,
+        "brand": "Alesto",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "a",
+        "description": "Walnuts XXL — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Cashew Yong‘oqlar",
+        "image": "https://images.openfoodfacts.org/images/products/000/004/089/3532/front_en.168.400.jpg",
+        "calories": 600,
+        "price": 17820,
+        "brand": "Alesto",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "b",
+        "description": "Cashew Yong‘oqlar — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Cashew Yong‘oqlar",
+        "image": "https://images.openfoodfacts.org/images/products/408/860/044/1672/front_en.26.400.jpg",
+        "calories": 583,
+        "price": 42648,
+        "brand": "The Foodie Market, Aldi",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "b",
+        "description": "Cashew Yong‘oqlar — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Peanuts roasted va salted",
+        "image": "https://images.openfoodfacts.org/images/products/000/002/005/4793/front_en.138.400.jpg",
+        "calories": 619,
+        "price": 19792,
+        "brand": "Alesto",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "b",
+        "description": "Peanuts roasted va salted — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Unsalted Roasted Yong‘oqlar",
+        "image": "https://images.openfoodfacts.org/images/products/500/023/712/7308/front_en.5.400.jpg",
+        "calories": 619,
+        "price": 21004,
+        "brand": "KP",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "a",
+        "description": "Unsalted Roasted Yong‘oqlar — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Pistacho tostado sal",
+        "image": "https://images.openfoodfacts.org/images/products/848/000/086/2020/front_es.3.400.jpg",
+        "calories": 617,
+        "price": 22607,
+        "brand": "Hacendado",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "b",
+        "description": "Pistacho tostado sal — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Whole almonds",
+        "image": "https://images.openfoodfacts.org/images/products/408/860/044/1689/front_en.3.400.jpg",
+        "calories": 595,
+        "price": 37595,
+        "brand": "The Foodie Market, Aldi",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "a",
+        "description": "Whole almonds — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Mandorle intere",
+        "image": "https://images.openfoodfacts.org/images/products/000/002/005/2713/front_en.242.400.jpg",
+        "calories": 645,
+        "price": 19006,
+        "brand": "Belbake",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "a",
+        "description": "Mandorle intere — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Mandeln",
+        "image": "https://images.openfoodfacts.org/images/products/405/648/944/0116/front_en.71.400.jpg",
+        "calories": 621,
+        "price": 22399,
+        "brand": "Alesto,LIDL",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "a",
+        "description": "Mandeln — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Cacahuètes grillées sans sel ajouté.",
+        "image": "https://images.openfoodfacts.org/images/products/356/007/108/4042/front_fr.61.400.jpg",
+        "calories": 622,
+        "price": 29662,
+        "brand": "Carrefour",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "a",
+        "description": "Cacahuètes grillées sans sel ajouté. — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Pistacho tostado 0% sal",
+        "image": "https://images.openfoodfacts.org/images/products/848/000/086/1900/front_es.36.400.jpg",
+        "calories": 616,
+        "price": 40678,
+        "brand": "Hacendado",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "a",
+        "description": "Pistacho tostado 0% sal — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Almendra sin piel",
+        "image": "https://images.openfoodfacts.org/images/products/848/000/023/5756/front_fr.27.400.jpg",
+        "calories": 619,
+        "price": 40802,
+        "brand": "Hacendado",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "a",
+        "description": "Almendra sin piel — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Noix de cajou grillées sans sel",
+        "image": "https://images.openfoodfacts.org/images/products/350/249/009/9153/front_fr.47.400.jpg",
+        "calories": 621,
+        "price": 39078,
+        "brand": "Maître Prunille",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "b",
+        "description": "Noix de cajou grillées sans sel — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Sweet chilli crunch",
+        "image": "https://images.openfoodfacts.org/images/products/505/595/870/6301/front_en.3.400.jpg",
+        "calories": 445,
+        "price": 44830,
+        "brand": "Graze",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "a",
+        "description": "Sweet chilli crunch — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Mandeln Feine Spezialitäten",
+        "image": "https://images.openfoodfacts.org/images/products/400/825/806/5013/front_de.105.400.jpg",
+        "calories": 631,
+        "price": 17896,
+        "brand": "Seeberger",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "a",
+        "description": "Mandeln Feine Spezialitäten — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Cacahuètes non salées",
+        "image": "https://images.openfoodfacts.org/images/products/356/470/053/7404/front_fr.55.400.jpg",
+        "calories": 621,
+        "price": 44029,
+        "brand": "Marque Repère, Tokapi",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "a",
+        "description": "Cacahuètes non salées — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Amandes",
+        "image": "https://images.openfoodfacts.org/images/products/871/129/902/0953/front_fr.44.400.jpg",
+        "calories": 610,
+        "price": 29845,
+        "brand": "Natural hapiness",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "b",
+        "description": "Amandes — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Whole Chestnuts",
+        "image": "https://images.openfoodfacts.org/images/products/505/621/560/0233/front_en.3.400.jpg",
+        "calories": 170,
+        "price": 39497,
+        "brand": "Merchant Gourmet",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "a",
+        "description": "Whole Chestnuts — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Pecan Yong‘oqlar",
+        "image": "https://images.openfoodfacts.org/images/products/000/002/020/2408/front_en.174.400.jpg",
+        "calories": 725,
+        "price": 25501,
+        "brand": "Alesto",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "a",
+        "description": "Pecan Yong‘oqlar — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Amandes grillées sans sel",
+        "image": "https://images.openfoodfacts.org/images/products/350/249/021/5621/front_fr.22.400.jpg",
+        "calories": 637,
+        "price": 37214,
+        "brand": "Maître Prunille",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "a",
+        "description": "Amandes grillées sans sel — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "KP Dry Roasted Peanuts",
+        "image": "https://images.openfoodfacts.org/images/products/500/023/712/7346/front_en.39.400.jpg",
+        "calories": 597,
+        "price": 36953,
+        "brand": "KP",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "a",
+        "description": "KP Dry Roasted Peanuts — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Kingsize Peanuts Unsalted",
+        "image": "https://images.openfoodfacts.org/images/products/871/129/902/0427/front_en.48.400.jpg",
+        "calories": 619,
+        "price": 26043,
+        "brand": "Snacks of the world",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "b",
+        "description": "Kingsize Peanuts Unsalted — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Noix de cajou",
+        "image": "https://images.openfoodfacts.org/images/products/871/129/902/0724/front_fr.24.400.jpg",
+        "calories": 595,
+        "price": 41298,
+        "brand": "Natural Happiness",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "b",
+        "description": "Noix de cajou — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Cacahuete tostado 0% sal añadida",
+        "image": "https://images.openfoodfacts.org/images/products/848/000/013/4516/front_es.10.400.jpg",
+        "calories": 618,
+        "price": 27367,
+        "brand": "Hacendado",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "a",
+        "description": "Cacahuete tostado 0% sal añadida — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Tesco Cashew Yong‘oqlar",
+        "image": "https://images.openfoodfacts.org/images/products/000/001/000/1417/front_en.40.400.jpg",
+        "calories": 623,
+        "price": 24116,
+        "brand": "tesco",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "b",
+        "description": "Tesco Cashew Yong‘oqlar — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Cashew Kerne Nüsse",
+        "image": "https://images.openfoodfacts.org/images/products/400/825/810/7010/front_de.124.400.jpg",
+        "calories": 606,
+        "price": 17280,
+        "brand": "Seeberger",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "b",
+        "description": "Cashew Kerne Nüsse — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Cacahuètes grillées sans sel ajouté",
+        "image": "https://images.openfoodfacts.org/images/products/325/039/191/0564/front_fr.63.400.jpg",
+        "calories": 628,
+        "price": 25616,
+        "brand": "Bouton d'or",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "a",
+        "description": "Cacahuètes grillées sans sel ajouté — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Seeberger Walnusskerne 4008258130018 Walnusskerne",
+        "image": "https://images.openfoodfacts.org/images/products/400/825/813/0018/front_de.101.400.jpg",
+        "calories": 717,
+        "price": 41924,
+        "brand": "Seeberger",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "a",
+        "description": "Seeberger Walnusskerne 4008258130018 Walnusskerne — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Amandes grillées",
+        "image": "https://images.openfoodfacts.org/images/products/327/072/001/8082/front_fr.48.400.jpg",
+        "calories": 629,
+        "price": 39846,
+        "brand": "Daco Bello",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "a",
+        "description": "Amandes grillées — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Erdnüsse geröstet va ungesalzen",
+        "image": "https://images.openfoodfacts.org/images/products/400/498/040/4007/front_de.23.400.jpg",
+        "calories": 626,
+        "price": 44401,
+        "brand": "ültje",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "a",
+        "description": "Erdnüsse geröstet va ungesalzen — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Amandes entières décortiquées",
+        "image": "https://images.openfoodfacts.org/images/products/306/823/000/0563/front_fr.81.400.jpg",
+        "calories": 611,
+        "price": 25586,
+        "brand": "Sun",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "a",
+        "description": "Amandes entières décortiquées — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Noix de cajou grillées",
+        "image": "https://images.openfoodfacts.org/images/products/324/541/290/1454/front_fr.114.400.jpg",
+        "calories": 614,
+        "price": 38219,
+        "brand": "Carrefour",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "b",
+        "description": "Noix de cajou grillées — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Amandes non grillées",
+        "image": "https://images.openfoodfacts.org/images/products/333/697/221/1036/front_fr.15.400.jpg",
+        "calories": 613,
+        "price": 29107,
+        "brand": "Vico",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "a",
+        "description": "Amandes non grillées — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Roasted Pistachios",
+        "image": "https://images.openfoodfacts.org/images/products/406/146/442/2834/front_en.27.400.jpg",
+        "calories": 612,
+        "price": 40411,
+        "brand": "The Foodie Market, Aldi, Aldi The Foodie Market",
+        "category": "yong‘oqlar",
+        "nutrition_grade": "a",
+        "description": "Roasted Pistachios — to‘yimli va foydali yong‘oqlar turi, energiya manbai sifatida iste’mol qilinadi."
+    },
+    {
+        "name": "Caesar Poulet rôti",
+        "image": "https://images.openfoodfacts.org/images/products/336/765/100/4878/front_fr.123.400.jpg",
+        "calories": 108,
+        "price": 40762,
+        "brand": "Daunat",
+        "category": "salads",
+        "nutrition_grade": "b",
+        "description": "Caesar Poulet rôti — tabiiy mahsulot."
+    },
+    {
+        "name": "Sabzilar râpées Au jus de citron*",
+        "image": "https://images.openfoodfacts.org/images/products/327/019/021/2980/front_fr.129.400.jpg",
+        "calories": 77,
+        "price": 39792,
+        "brand": "Carrefour",
+        "category": "salads",
+        "nutrition_grade": "a",
+        "description": "Sabzilar râpées Au jus de citron* — tabiiy mahsulot."
+    },
+    {
+        "name": "Ma Salate de Lentilles à la Lyonnaise",
+        "image": "https://images.openfoodfacts.org/images/products/328/178/006/3509/front_fr.67.400.jpg",
+        "calories": 122,
+        "price": 30713,
+        "brand": "Pierre Martinet",
+        "category": "salads",
+        "nutrition_grade": "a",
+        "description": "Ma Salate de Lentilles à la Lyonnaise — tabiiy mahsulot."
+    },
+    {
+        "name": "Betteraves rouges à l'échalote",
+        "image": "https://images.openfoodfacts.org/images/products/000/002/018/0379/front_fr.56.400.jpg",
+        "calories": 60,
+        "price": 26238,
+        "brand": "Saladinettes",
+        "category": "salads",
+        "nutrition_grade": "a",
+        "description": "Betteraves rouges à l'échalote — tabiiy mahsulot."
+    },
+    {
+        "name": "Salate à la mexicaine",
+        "image": "https://images.openfoodfacts.org/images/products/301/908/002/1505/front_fr.45.400.jpg",
+        "calories": 114,
+        "price": 35980,
+        "brand": "Petit navire",
+        "category": "salads",
+        "nutrition_grade": "a",
+        "description": "Salate à la mexicaine — tabiiy mahsulot."
+    },
+    {
+        "name": "Sabzilar râpées Au jus de citron*",
+        "image": "https://images.openfoodfacts.org/images/products/327/019/020/7511/front_fr.73.400.jpg",
+        "calories": 77,
+        "price": 22708,
+        "brand": "Carrefour",
+        "category": "salads",
+        "nutrition_grade": "a",
+        "description": "Sabzilar râpées Au jus de citron* — tabiiy mahsulot."
+    },
+    {
+        "name": "Mon taboulé aux 5 légumes au jus de citron",
+        "image": "https://images.openfoodfacts.org/images/products/328/178/086/8852/front_fr.73.400.jpg",
+        "calories": 156,
+        "price": 28172,
+        "brand": "Pierre Martinet",
+        "category": "salads",
+        "nutrition_grade": "b",
+        "description": "Mon taboulé aux 5 légumes au jus de citron — tabiiy mahsulot."
+    },
+    {
+        "name": "Coleslaw Chou blanc et carottes",
+        "image": "https://images.openfoodfacts.org/images/products/356/007/045/7335/front_fr.59.400.jpg",
+        "calories": 194,
+        "price": 22850,
+        "brand": "Carrefour",
+        "category": "salads",
+        "nutrition_grade": "b",
+        "description": "Coleslaw Chou blanc et carottes — tabiiy mahsulot."
+    },
+    {
+        "name": "Tuňákový salát na středomořský způsob",
+        "image": "https://images.openfoodfacts.org/images/products/000/002/039/8521/front_en.19.400.jpg",
+        "calories": 102,
+        "price": 16972,
+        "brand": "Nixe",
+        "category": "salads",
+        "nutrition_grade": "b",
+        "description": "Tuňákový salát na středomořský způsob — tabiiy mahsulot."
+    },
+    {
+        "name": "Duo sécable Taboulé oriental et Sabzilar râpées",
+        "image": "https://images.openfoodfacts.org/images/products/328/178/009/6057/front_fr.46.400.jpg",
+        "calories": 130,
+        "price": 44875,
+        "brand": "Pierre Martinet",
+        "category": "salads",
+        "nutrition_grade": "a",
+        "description": "Duo sécable Taboulé oriental et Sabzilar râpées — tabiiy mahsulot."
+    },
+    {
+        "name": "Buddha bowl",
+        "image": "https://images.openfoodfacts.org/images/products/405/648/927/7064/front_fr.17.400.jpg",
+        "calories": 134,
+        "price": 16305,
+        "brand": "Lidl",
+        "category": "salads",
+        "nutrition_grade": "b",
+        "description": "Buddha bowl — tabiiy mahsulot."
+    },
+    {
+        "name": "Salate Américaine au thon",
+        "image": "https://images.openfoodfacts.org/images/products/000/002/092/9909/front_fr.27.400.jpg",
+        "calories": 98,
+        "price": 16403,
+        "brand": "Nixe",
+        "category": "salads",
+        "nutrition_grade": "b",
+        "description": "Salate Américaine au thon — tabiiy mahsulot."
+    },
+    {
+        "name": "Avocado, feta and grain",
+        "image": "https://images.openfoodfacts.org/images/products/000/000/062/3643/front_fr.4.400.jpg",
+        "calories": 176,
+        "price": 40126,
+        "brand": "M&S",
+        "category": "salads",
+        "nutrition_grade": "b",
+        "description": "Avocado, feta and grain — tabiiy mahsulot."
+    },
+    {
+        "name": "Betteraves rouge 300g",
+        "image": "https://images.openfoodfacts.org/images/products/325/039/063/0258/front_fr.63.400.jpg",
+        "calories": 69,
+        "price": 25903,
+        "brand": "Monique Ranou",
+        "category": "salads",
+        "nutrition_grade": "a",
+        "description": "Betteraves rouge 300g — tabiiy mahsulot."
+    },
+    {
+        "name": "Salate à la Libanaise",
+        "image": "https://images.openfoodfacts.org/images/products/327/016/083/9377/front_fr.4.400.jpg",
+        "calories": 108,
+        "price": 44361,
+        "brand": "Picard",
+        "category": "salads",
+        "nutrition_grade": "b",
+        "description": "Salate à la Libanaise — tabiiy mahsulot."
+    },
+    {
+        "name": "Salate",
+        "image": "https://images.openfoodfacts.org/images/products/328/022/502/1227/front_fr.5.400.jpg",
+        "calories": 21,
+        "price": 27016,
+        "brand": "Florette",
+        "category": "salads",
+        "nutrition_grade": "a",
+        "description": "Salate — tabiiy mahsulot."
+    },
+    {
+        "name": "Concombres au fromage blanc",
+        "image": "https://images.openfoodfacts.org/images/products/356/007/044/6384/front_fr.89.400.jpg",
+        "calories": 73,
+        "price": 16153,
+        "brand": "CMI (Carrefour Marchandises Internationales), Carrefour, Groupe Carrefour",
+        "category": "salads",
+        "nutrition_grade": "a",
+        "description": "Concombres au fromage blanc — tabiiy mahsulot."
+    },
+    {
+        "name": "Mexican Style Salat",
+        "image": "https://images.openfoodfacts.org/images/products/500/017/105/4456/front_en.35.400.jpg",
+        "calories": 99,
+        "price": 41222,
+        "brand": "John West",
+        "category": "salads",
+        "nutrition_grade": "a",
+        "description": "Mexican Style Salat — tabiiy mahsulot."
+    },
+    {
+        "name": "Les saladieres mexicana",
+        "image": "https://images.openfoodfacts.org/images/products/316/595/021/7070/front_fr.38.400.jpg",
+        "calories": 94,
+        "price": 31699,
+        "brand": "BOLTON FOOD, Saupiquet",
+        "category": "salads",
+        "nutrition_grade": "b",
+        "description": "Les saladieres mexicana — tabiiy mahsulot."
+    },
+    {
+        "name": "Ensalada completa césar pollo y queso",
+        "image": "https://images.openfoodfacts.org/images/products/841/451/607/8354/front_es.47.400.jpg",
+        "calories": 128,
+        "price": 28360,
+        "brand": "Florette",
+        "category": "salads",
+        "nutrition_grade": "a",
+        "description": "Ensalada completa césar pollo y queso — tabiiy mahsulot."
+    },
+    {
+        "name": "Bol poulet avocat",
+        "image": "https://images.openfoodfacts.org/images/products/370/000/926/9084/front_fr.102.400.jpg",
+        "calories": 183,
+        "price": 35496,
+        "brand": "Mix,Mix buffet",
+        "category": "salads",
+        "nutrition_grade": "a",
+        "description": "Bol poulet avocat — tabiiy mahsulot."
+    },
+    {
+        "name": "Sabzilar râpées",
+        "image": "https://images.openfoodfacts.org/images/products/356/007/037/0122/front_fr.68.400.jpg",
+        "calories": 85,
+        "price": 22728,
+        "brand": "Carrefour BIO, CMI (Carrefour Marchandises Internationales), Carrefour, Groupe Carrefour",
+        "category": "salads",
+        "nutrition_grade": "a",
+        "description": "Sabzilar râpées — tabiiy mahsulot."
+    },
+    {
+        "name": "Sabzilar rapées 300g",
+        "image": "https://images.openfoodfacts.org/images/products/325/622/711/1235/front_fr.48.400.jpg",
+        "calories": 71,
+        "price": 18805,
+        "brand": "U",
+        "category": "salads",
+        "nutrition_grade": "a",
+        "description": "Sabzilar rapées 300g — tabiiy mahsulot."
+    },
+    {
+        "name": "Piemontaise poulet 320g",
+        "image": "https://images.openfoodfacts.org/images/products/308/368/105/5429/front_fr.50.400.jpg",
+        "calories": 122,
+        "price": 34339,
+        "brand": "Bonduelle",
+        "category": "salads",
+        "nutrition_grade": "b",
+        "description": "Piemontaise poulet 320g — tabiiy mahsulot."
+    },
+    {
+        "name": "SALAD' PASTA Paysanne Poulet rôti",
+        "image": "https://images.openfoodfacts.org/images/products/356/007/077/1035/front_fr.78.400.jpg",
+        "calories": 111,
+        "price": 17181,
+        "brand": "Bon App' Carrefour,bon app,carrefour",
+        "category": "salads",
+        "nutrition_grade": "b",
+        "description": "SALAD' PASTA Paysanne Poulet rôti — tabiiy mahsulot."
+    },
+    {
+        "name": "Sabzilar rapées 800g",
+        "image": "https://images.openfoodfacts.org/images/products/325/622/711/1259/front_fr.36.400.jpg",
+        "calories": 71,
+        "price": 27784,
+        "brand": "U",
+        "category": "salads",
+        "nutrition_grade": "a",
+        "description": "Sabzilar rapées 800g — tabiiy mahsulot."
+    },
+    {
+        "name": "Crayfish mango rice salad",
+        "image": "https://images.openfoodfacts.org/images/products/000/000/049/6384/front_en.26.400.jpg",
+        "calories": 121,
+        "price": 43483,
+        "brand": "Marks & Spencer",
+        "category": "salads",
+        "nutrition_grade": "b",
+        "description": "Crayfish mango rice salad — tabiiy mahsulot."
+    },
+    {
+        "name": "Salate De Thon Mexicaine",
+        "image": "https://images.openfoodfacts.org/images/products/356/470/084/2058/front_fr.42.400.jpg",
+        "calories": 124,
+        "price": 15519,
+        "brand": "Marque Repère, Côté Snack",
+        "category": "salads",
+        "nutrition_grade": "a",
+        "description": "Salate De Thon Mexicaine — tabiiy mahsulot."
+    },
+    {
+        "name": "Sabzilar râpées 500g",
+        "image": "https://images.openfoodfacts.org/images/products/325/622/711/1242/front_fr.40.400.jpg",
+        "calories": 71,
+        "price": 41839,
+        "brand": "U",
+        "category": "salads",
+        "nutrition_grade": "a",
+        "description": "Sabzilar râpées 500g — tabiiy mahsulot."
+    },
+    {
+        "name": "Lentilles carottes et oignons 300g",
+        "image": "https://images.openfoodfacts.org/images/products/308/368/104/9893/front_fr.49.400.jpg",
+        "calories": 111,
+        "price": 21891,
+        "brand": "Bonduelle",
+        "category": "salads",
+        "nutrition_grade": "b",
+        "description": "Lentilles carottes et oignons 300g — tabiiy mahsulot."
+    },
+    {
+        "name": "Salate Surimi va Oeuf Sauce Cocktail",
+        "image": "https://images.openfoodfacts.org/images/products/000/002/015/9511/front_fr.3.400.jpg",
+        "calories": 98,
+        "price": 31686,
+        "brand": "Chef select to go",
+        "category": "salads",
+        "nutrition_grade": "b",
+        "description": "Salate Surimi va Oeuf Sauce Cocktail — tabiiy mahsulot."
+    },
+    {
+        "name": "Salat'bowl à l'Italienne",
+        "image": "https://images.openfoodfacts.org/images/products/356/007/089/7216/front_fr.65.400.jpg",
+        "calories": 142,
+        "price": 28707,
+        "brand": "Carrefour",
+        "category": "salads",
+        "nutrition_grade": "a",
+        "description": "Salat'bowl à l'Italienne — tabiiy mahsulot."
+    },
+    {
+        "name": "Salat'Bowl",
+        "image": "https://images.openfoodfacts.org/images/products/356/007/089/7339/front_fr.48.400.jpg",
+        "calories": 119,
+        "price": 44096,
+        "brand": "Carrefour",
+        "category": "salads",
+        "nutrition_grade": "b",
+        "description": "Salat'Bowl — tabiiy mahsulot."
+    },
+    {
+        "name": "Salate de betteraves rouges",
+        "image": "https://images.openfoodfacts.org/images/products/356/007/123/5406/front_fr.55.400.jpg",
+        "calories": 52,
+        "price": 15500,
+        "brand": "Carrefour",
+        "category": "salads",
+        "nutrition_grade": "a",
+        "description": "Salate de betteraves rouges — tabiiy mahsulot."
+    },
+    {
+        "name": "Salate mexicaine au thon",
+        "image": "https://images.openfoodfacts.org/images/products/341/028/004/3920/front_fr.3.400.jpg",
+        "calories": 111,
+        "price": 32516,
+        "brand": "Top budget",
+        "category": "salads",
+        "nutrition_grade": "b",
+        "description": "Salate mexicaine au thon — tabiiy mahsulot."
+    },
+    {
+        "name": "Buddha Bol Saumon fumé",
+        "image": "https://images.openfoodfacts.org/images/products/370/000/926/5093/front_fr.48.400.jpg",
+        "calories": 135,
+        "price": 25002,
+        "brand": "Mix",
+        "category": "salads",
+        "nutrition_grade": "b",
+        "description": "Buddha Bol Saumon fumé — tabiiy mahsulot."
+    },
+    {
+        "name": "Salate mexicaine au thon 250g",
+        "image": "https://images.openfoodfacts.org/images/products/325/622/224/0480/front_fr.67.400.jpg",
+        "calories": 99,
+        "price": 27609,
+        "brand": "U",
+        "category": "salads",
+        "nutrition_grade": "a",
+        "description": "Salate mexicaine au thon 250g — tabiiy mahsulot."
+    },
+    {
+        "name": "Mes betteraves rouges",
+        "image": "https://images.openfoodfacts.org/images/products/328/178/006/2403/front_fr.27.400.jpg",
+        "calories": 67,
+        "price": 22194,
+        "brand": "Pierre Martinet",
+        "category": "salads",
+        "nutrition_grade": "b",
+        "description": "Mes betteraves rouges — tabiiy mahsulot."
+    },
+    {
+        "name": "Salate NIÇOISE DE THON",
+        "image": "https://images.openfoodfacts.org/images/products/356/007/070/4026/front_fr.35.400.jpg",
+        "calories": 73,
+        "price": 38734,
+        "brand": "Carrefour",
+        "category": "salads",
+        "nutrition_grade": "b",
+        "description": "Salate NIÇOISE DE THON — tabiiy mahsulot."
+    },
+    {
+        "name": "Salate iceberg",
+        "image": "https://images.openfoodfacts.org/images/products/356/470/030/1456/front_fr.112.400.jpg",
+        "calories": 18,
+        "price": 31827,
+        "brand": "Marque Repère,Notre Jardin",
+        "category": "salads",
+        "nutrition_grade": "a",
+        "description": "Salate iceberg — tabiiy mahsulot."
+    },
+    {
+        "name": "Salate Caesar",
+        "image": "https://images.openfoodfacts.org/images/products/356/470/069/6217/front_fr.43.400.jpg",
+        "calories": 111,
+        "price": 41938,
+        "brand": "Marque Repère, Côté Snack",
+        "category": "salads",
+        "nutrition_grade": "b",
+        "description": "Salate Caesar — tabiiy mahsulot."
+    },
+    {
+        "name": "Salate de lentilles",
+        "image": "https://images.openfoodfacts.org/images/products/000/000/002/5393/front_fr.3.400.jpg",
+        "calories": 126,
+        "price": 21589,
+        "brand": "Migros",
+        "category": "salads",
+        "nutrition_grade": "a",
+        "description": "Salate de lentilles — tabiiy mahsulot."
+    },
+    {
+        "name": "Taboulé",
+        "image": "https://images.openfoodfacts.org/images/products/324/541/230/3890/front_fr.82.400.jpg",
+        "calories": 148,
+        "price": 43103,
+        "brand": "Carrefour",
+        "category": "salads",
+        "nutrition_grade": "b",
+        "description": "Taboulé — tabiiy mahsulot."
+    },
+    {
+        "name": "Iceberg",
+        "image": "https://images.openfoodfacts.org/images/products/325/039/091/4884/front_fr.36.400.jpg",
+        "calories": 20,
+        "price": 26347,
+        "brand": "Saint eloi",
+        "category": "salads",
+        "nutrition_grade": "a",
+        "description": "Iceberg — tabiiy mahsulot."
+    },
+    {
+        "name": "V8 Tropical",
+        "image": "https://images.openfoodfacts.org/images/products/930/064/470/2959/front_en.31.400.jpg",
+        "calories": 44,
+        "price": 44091,
+        "brand": "Campbell's",
+        "category": "juices",
+        "nutrition_grade": "a",
+        "description": "V8 Tropical — tabiiy mahsulot."
+    },
+    {
+        "name": "Healthy greens",
+        "image": "https://images.openfoodfacts.org/images/products/930/064/470/4076/front_en.8.400.jpg",
+        "calories": 44.2,
+        "price": 26704,
+        "brand": "V8",
+        "category": "juices",
+        "nutrition_grade": "a",
+        "description": "Healthy greens — tabiiy mahsulot."
+    },
+    {
+        "name": "Vegetable hot va spicy with tomato carrot celery chilli",
+        "image": "https://images.openfoodfacts.org/images/products/930/064/470/2898/front_en.8.400.jpg",
+        "calories": 20.8,
+        "price": 29361,
+        "brand": "v8",
+        "category": "juices",
+        "nutrition_grade": "b",
+        "description": "Vegetable hot va spicy with tomato carrot celery chilli — tabiiy mahsulot."
+    },
+    {
+        "name": "V8 breakfast",
+        "image": "https://images.openfoodfacts.org/images/products/930/064/470/2904/front_fr.4.400.jpg",
+        "calories": 48.8,
+        "price": 34843,
+        "brand": "V8",
+        "category": "juices",
+        "nutrition_grade": "b",
+        "description": "V8 breakfast — tabiiy mahsulot."
+    },
+    {
+        "name": "Ginger Ninja",
+        "image": "https://images.openfoodfacts.org/images/products/933/624/300/6099/front_en.10.400.jpg",
+        "calories": 28.7,
+        "price": 34144,
+        "brand": "Impressed",
+        "category": "juices",
+        "nutrition_grade": "b",
+        "description": "Ginger Ninja — tabiiy mahsulot."
+    },
+    {
+        "name": "Chilled orange juice",
+        "image": "https://images.openfoodfacts.org/images/products/509/983/928/5615/front_en.20.400.jpg",
+        "calories": 43,
+        "price": 44631,
+        "brand": "SuperValu",
+        "category": "juices",
+        "nutrition_grade": "b",
+        "description": "Chilled orange juice — tabiiy mahsulot."
+    },
+    {
+        "name": "Lindhouse - Easy Squeeze Apple va Blackcurrant Squash",
+        "image": "https://images.openfoodfacts.org/images/products/405/648/989/6753/front_en.3.400.jpg",
+        "calories": 1,
+        "price": 29499,
+        "brand": "Lindhouse",
+        "category": "juices",
+        "nutrition_grade": "a",
+        "description": "Lindhouse - Easy Squeeze Apple va Blackcurrant Squash — tabiiy mahsulot."
+    },
+    {
+        "name": "Sour Cherry Juice",
+        "image": "https://images.openfoodfacts.org/images/products/000/002/020/6413/front_en.16.400.jpg",
+        "calories": 65,
+        "price": 31284,
+        "brand": "EVIVA",
+        "category": "juices",
+        "nutrition_grade": "b",
+        "description": "Sour Cherry Juice — tabiiy mahsulot."
+    },
+    {
+        "name": "Start Shot",
+        "image": "https://images.openfoodfacts.org/images/products/401/553/306/2322/front_de.3.400.jpg",
+        "calories": 36,
+        "price": 15853,
+        "brand": "Völkel",
+        "category": "juices",
+        "nutrition_grade": "a",
+        "description": "Start Shot — tabiiy mahsulot."
+    },
+    {
+        "name": "Tropical punch",
+        "image": "https://images.openfoodfacts.org/images/products/931/017/900/6699/front_fr.25.400.jpg",
+        "calories": 41.8,
+        "price": 27849,
+        "brand": "Golden circle",
+        "category": "juices",
+        "nutrition_grade": "b",
+        "description": "Tropical punch — tabiiy mahsulot."
+    },
+    {
+        "name": "Pine Orange Fruit Drink",
+        "image": "https://images.openfoodfacts.org/images/products/931/017/900/9294/front_en.21.400.jpg",
+        "calories": 42,
+        "price": 23816,
+        "brand": "Golden Circle,Heinz",
+        "category": "juices",
+        "nutrition_grade": "b",
+        "description": "Pine Orange Fruit Drink — tabiiy mahsulot."
+    },
+    {
+        "name": "ทิปโก้ คูล ฟิต",
+        "image": "https://images.openfoodfacts.org/images/products/885/101/373/3988/front_en.4.400.jpg",
+        "calories": 22.5,
+        "price": 19325,
+        "brand": "Tipco,ทิปโก้",
+        "category": "juices",
+        "nutrition_grade": "b",
+        "description": "ทิปโก้ คูล ฟิต — tabiiy mahsulot."
+    },
+    {
+        "name": "Golden Circle DRK Apple",
+        "image": "https://images.openfoodfacts.org/images/products/931/017/900/9300/front_fr.4.400.jpg",
+        "calories": 41.8,
+        "price": 28974,
+        "brand": "Golden Circle",
+        "category": "juices",
+        "nutrition_grade": "b",
+        "description": "Golden Circle DRK Apple — tabiiy mahsulot."
+    },
+    {
+        "name": "Pomidor juice",
+        "image": "https://images.openfoodfacts.org/images/products/931/017/918/8333/front_en.33.400.jpg",
+        "calories": 14.3,
+        "price": 23723,
+        "brand": "Golden Circle",
+        "category": "juices",
+        "nutrition_grade": "b",
+        "description": "Pomidor juice — tabiiy mahsulot."
+    },
+    {
+        "name": "V8 vegetable",
+        "image": "https://images.openfoodfacts.org/images/products/930/064/470/2942/front_en.16.400.jpg",
+        "calories": 19.2,
+        "price": 31613,
+        "brand": "Campbell's",
+        "category": "juices",
+        "nutrition_grade": "b",
+        "description": "V8 vegetable — tabiiy mahsulot."
+    },
+    {
+        "name": "Pomidor juive",
+        "image": "https://images.openfoodfacts.org/images/products/931/017/919/9360/front_en.17.400.jpg",
+        "calories": 19.7,
+        "price": 42889,
+        "brand": "Golden Circle,Heinz",
+        "category": "juices",
+        "nutrition_grade": "b",
+        "description": "Pomidor juive — tabiiy mahsulot."
+    },
+    {
+        "name": "Linea",
+        "image": "https://images.openfoodfacts.org/images/products/805/053/930/0715/front_it.3.400.jpg",
+        "calories": 42.6,
+        "price": 43347,
+        "brand": "Lome super fruit",
+        "category": "juices",
+        "nutrition_grade": "b",
+        "description": "Linea — tabiiy mahsulot."
+    },
+    {
+        "name": "Vitality",
+        "image": "https://images.openfoodfacts.org/images/products/805/053/930/0395/front_it.3.400.jpg",
+        "calories": 42.3,
+        "price": 40542,
+        "brand": "Lome super fruit",
+        "category": "juices",
+        "nutrition_grade": "b",
+        "description": "Vitality — tabiiy mahsulot."
+    },
+    {
+        "name": "Succo melagrana arancia e zenzero",
+        "image": "https://images.openfoodfacts.org/images/products/805/053/930/0548/front_it.3.400.jpg",
+        "calories": 45,
+        "price": 43321,
+        "brand": "Lome super fruit",
+        "category": "juices",
+        "nutrition_grade": "b",
+        "description": "Succo melagrana arancia e zenzero — tabiiy mahsulot."
+    },
+    {
+        "name": "Detox",
+        "image": "https://images.openfoodfacts.org/images/products/805/053/930/0333/front_it.3.400.jpg",
+        "calories": 43.8,
+        "price": 36555,
+        "brand": "Lome super fruit",
+        "category": "juices",
+        "nutrition_grade": "b",
+        "description": "Detox — tabiiy mahsulot."
+    },
+    {
+        "name": "Vitality",
+        "image": "https://images.openfoodfacts.org/images/products/805/053/930/0388/front_it.3.400.jpg",
+        "calories": 42.3,
+        "price": 23561,
+        "brand": "Lome super fruit",
+        "category": "juices",
+        "nutrition_grade": "b",
+        "description": "Vitality — tabiiy mahsulot."
+    },
+    {
+        "name": "Detox melagrana e arancia",
+        "image": "https://images.openfoodfacts.org/images/products/805/053/930/0326/front_it.3.400.jpg",
+        "calories": 43.8,
+        "price": 25228,
+        "brand": "Lome super fruit",
+        "category": "juices",
+        "nutrition_grade": "b",
+        "description": "Detox melagrana e arancia — tabiiy mahsulot."
+    },
+    {
+        "name": "Succo Melagrana e aranci",
+        "image": "https://images.openfoodfacts.org/images/products/805/053/930/0296/front_en.3.400.jpg",
+        "calories": 43.8,
+        "price": 30786,
+        "brand": "Lome super fruit",
+        "category": "juices",
+        "nutrition_grade": "b",
+        "description": "Succo Melagrana e aranci — tabiiy mahsulot."
+    },
+    {
+        "name": "Clementina",
+        "image": "https://images.openfoodfacts.org/images/products/805/053/930/0234/front_it.3.400.jpg",
+        "calories": 43,
+        "price": 39627,
+        "brand": "Lome super fruit",
+        "category": "juices",
+        "nutrition_grade": "b",
+        "description": "Clementina — tabiiy mahsulot."
+    },
+    {
+        "name": "Spremuta di clementina",
+        "image": "https://images.openfoodfacts.org/images/products/805/053/930/0241/front_it.3.400.jpg",
+        "calories": 43,
+        "price": 27008,
+        "brand": "Lome super fruit",
+        "category": "juices",
+        "nutrition_grade": "a",
+        "description": "Spremuta di clementina — tabiiy mahsulot."
+    },
+    {
+        "name": "Succo di Melograna",
+        "image": "https://images.openfoodfacts.org/images/products/805/053/930/0203/front_it.3.400.jpg",
+        "calories": 42,
+        "price": 15412,
+        "brand": "Lome super fruit",
+        "category": "juices",
+        "nutrition_grade": "b",
+        "description": "Succo di Melograna — tabiiy mahsulot."
+    },
+    {
+        "name": "Spremuta di melagrana",
+        "image": "https://images.openfoodfacts.org/images/products/805/053/930/0197/front_it.3.400.jpg",
+        "calories": 42,
+        "price": 25227,
+        "brand": "Lome super fruit",
+        "category": "juices",
+        "nutrition_grade": "b",
+        "description": "Spremuta di melagrana — tabiiy mahsulot."
+    },
+    {
+        "name": "Melagrana",
+        "image": "https://images.openfoodfacts.org/images/products/805/053/930/0029/front_it.3.400.jpg",
+        "calories": 42,
+        "price": 33132,
+        "brand": "Lome super fruit",
+        "category": "juices",
+        "nutrition_grade": "b",
+        "description": "Melagrana — tabiiy mahsulot."
+    },
+    {
+        "name": "Clean Greens",
+        "image": "https://images.openfoodfacts.org/images/products/000/002/943/3087/front_en.5.400.jpg",
+        "calories": 24,
+        "price": 23250,
+        "brand": "M&S",
+        "category": "juices",
+        "nutrition_grade": "a",
+        "description": "Clean Greens — tabiiy mahsulot."
+    },
+    {
+        "name": "tomato cocktail",
+        "image": "https://images.openfoodfacts.org/images/products/600/124/020/0131/front_en.4.400.jpg",
+        "calories": 47,
+        "price": 44937,
+        "brand": "ceres",
+        "category": "juices",
+        "nutrition_grade": "b",
+        "description": "tomato cocktail — tabiiy mahsulot."
+    },
+    {
+        "name": "Krishna's Diabic Care Juice",
+        "image": "https://images.openfoodfacts.org/images/products/890/603/715/1086/front_en.5.400.jpg",
+        "calories": 14.9,
+        "price": 27567,
+        "brand": "Krishna's",
+        "category": "juices",
+        "nutrition_grade": "a",
+        "description": "Krishna's Diabic Care Juice — tabiiy mahsulot."
+    },
+    {
+        "name": "Sourdough White Ciabattin Bread",
+        "image": "https://images.openfoodfacts.org/images/products/502/512/500/0006/front_en.69.400.jpg",
+        "calories": 237,
+        "price": 32341,
+        "brand": "Jason’s",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Sourdough White Ciabattin Bread — tabiiy mahsulot."
+    },
+    {
+        "name": "Proper Sourdough",
+        "image": "https://images.openfoodfacts.org/images/products/502/512/500/0112/front_en.63.400.jpg",
+        "calories": 237,
+        "price": 44422,
+        "brand": "Jason's Sourdough",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Proper Sourdough — tabiiy mahsulot."
+    },
+    {
+        "name": "Tartine croustillante Authentique",
+        "image": "https://images.openfoodfacts.org/images/products/730/040/048/1595/front_fr.234.400.jpg",
+        "calories": 336,
+        "price": 32389,
+        "brand": "wasa",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Tartine croustillante Authentique — tabiiy mahsulot."
+    },
+    {
+        "name": "Weetabix",
+        "image": "https://images.openfoodfacts.org/images/products/501/002/900/0016/front_en.34.400.jpg",
+        "calories": 358,
+        "price": 42302,
+        "brand": "Weetabix",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Weetabix — tabiiy mahsulot."
+    },
+    {
+        "name": "Organic Lightly Salted Wholegrain Low Fat Guruch Cakes",
+        "image": "https://images.openfoodfacts.org/images/products/501/366/510/0065/front_en.58.400.jpg",
+        "calories": 400,
+        "price": 43913,
+        "brand": "Kallo",
+        "category": "cereals",
+        "nutrition_grade": "b",
+        "description": "Organic Lightly Salted Wholegrain Low Fat Guruch Cakes — tabiiy mahsulot."
+    },
+    {
+        "name": "Pain de mie grandes tranches Seigle va Graines 500g",
+        "image": "https://images.openfoodfacts.org/images/products/376/004/979/8609/front_en.140.400.jpg",
+        "calories": 297,
+        "price": 21727,
+        "brand": "La Boulangère",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Pain de mie grandes tranches Seigle va Graines 500g — tabiiy mahsulot."
+    },
+    {
+        "name": "JASON'S SOURDOUGH 07 SUPERB SPROUTED GRAINS",
+        "image": "https://images.openfoodfacts.org/images/products/502/512/500/0129/front_en.53.400.jpg",
+        "calories": 233,
+        "price": 37594,
+        "brand": "JASON'S",
+        "category": "cereals",
+        "nutrition_grade": "b",
+        "description": "JASON'S SOURDOUGH 07 SUPERB SPROUTED GRAINS — tabiiy mahsulot."
+    },
+    {
+        "name": "FIBRES",
+        "image": "https://images.openfoodfacts.org/images/products/730/040/048/1588/front_en.269.400.jpg",
+        "calories": 333,
+        "price": 22647,
+        "brand": "Wasa",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "FIBRES — tabiiy mahsulot."
+    },
+    {
+        "name": "Krisprolls complets sans sucres ajoutés",
+        "image": "https://images.openfoodfacts.org/images/products/731/107/003/2611/front_en.91.400.jpg",
+        "calories": 400,
+        "price": 20140,
+        "brand": "Krisprolls",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Krisprolls complets sans sucres ajoutés — tabiiy mahsulot."
+    },
+    {
+        "name": "14 Maxi Tranches complet sans sucres ajoutés",
+        "image": "https://images.openfoodfacts.org/images/products/302/933/002/2428/front_fr.180.400.jpg",
+        "calories": 243,
+        "price": 25427,
+        "brand": "Jacquet",
+        "category": "cereals",
+        "nutrition_grade": "b",
+        "description": "14 Maxi Tranches complet sans sucres ajoutés — tabiiy mahsulot."
+    },
+    {
+        "name": "cruesly mélange de noix",
+        "image": "https://images.openfoodfacts.org/images/products/316/893/001/0265/front_en.206.400.jpg",
+        "calories": 462,
+        "price": 31705,
+        "brand": "Quaker",
+        "category": "cereals",
+        "nutrition_grade": "b",
+        "description": "cruesly mélange de noix — tabiiy mahsulot."
+    },
+    {
+        "name": "Tartines craquantes au sarrasin imp",
+        "image": "https://images.openfoodfacts.org/images/products/000/000/617/5700/front_fr.90.400.jpg",
+        "calories": 388,
+        "price": 37873,
+        "brand": "Ekibio,Le pain des Fleurs",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Tartines craquantes au sarrasin imp — tabiiy mahsulot."
+    },
+    {
+        "name": "Family Pack",
+        "image": "https://images.openfoodfacts.org/images/products/501/002/900/0801/front_en.60.400.jpg",
+        "calories": 362,
+        "price": 41106,
+        "brand": "Weetabix",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Family Pack — tabiiy mahsulot."
+    },
+    {
+        "name": "Aveia em flocos finos Lidl",
+        "image": "https://images.openfoodfacts.org/images/products/000/002/000/3166/front_en.473.400.jpg",
+        "calories": 372,
+        "price": 31253,
+        "brand": "CROWNFIELD",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Aveia em flocos finos Lidl — tabiiy mahsulot."
+    },
+    {
+        "name": "Flocons d'avoine",
+        "image": "https://images.openfoodfacts.org/images/products/322/982/001/9307/front_fr.300.400.jpg",
+        "calories": 362,
+        "price": 43268,
+        "brand": "Bjorg",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Flocons d'avoine — tabiiy mahsulot."
+    },
+    {
+        "name": "Weetabix produit à base de blé complet 100%",
+        "image": "https://images.openfoodfacts.org/images/products/501/002/900/0023/front_en.121.400.jpg",
+        "calories": 362,
+        "price": 40585,
+        "brand": "Weetabix",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Weetabix produit à base de blé complet 100% — tabiiy mahsulot."
+    },
+    {
+        "name": "36 Wheat Bisks",
+        "image": "https://images.openfoodfacts.org/images/products/408/860/024/7519/front_en.32.400.jpg",
+        "calories": 353,
+        "price": 15834,
+        "brand": "Harvest Morn",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "36 Wheat Bisks — tabiiy mahsulot."
+    },
+    {
+        "name": "Muesli Raisin, Figue, Abricot",
+        "image": "https://images.openfoodfacts.org/images/products/322/982/012/9488/front_fr.238.400.jpg",
+        "calories": 352,
+        "price": 32348,
+        "brand": "Bjorg",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Muesli Raisin, Figue, Abricot — tabiiy mahsulot."
+    },
+    {
+        "name": "Seeded Sourdough Bread",
+        "image": "https://images.openfoodfacts.org/images/products/408/860/024/6291/front_en.36.400.jpg",
+        "calories": 265,
+        "price": 39492,
+        "brand": "Specially Selected",
+        "category": "cereals",
+        "nutrition_grade": "b",
+        "description": "Seeded Sourdough Bread — tabiiy mahsulot."
+    },
+    {
+        "name": "Special Muesli 30% fruits va noix",
+        "image": "https://images.openfoodfacts.org/images/products/501/047/734/8678/front_fr.226.400.jpg",
+        "calories": 362,
+        "price": 44561,
+        "brand": "Jordans",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Special Muesli 30% fruits va noix — tabiiy mahsulot."
+    },
+    {
+        "name": "wasa",
+        "image": "https://images.openfoodfacts.org/images/products/730/040/048/1571/front_fr.1729.400.jpg",
+        "calories": 338,
+        "price": 15081,
+        "brand": "Barilla,Wasa",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "wasa — tabiiy mahsulot."
+    },
+    {
+        "name": "Quaker Rolled Oats",
+        "image": "https://images.openfoodfacts.org/images/products/500/010/802/2152/front_en.61.400.jpg",
+        "calories": 368,
+        "price": 35573,
+        "brand": "Quaker",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Quaker Rolled Oats — tabiiy mahsulot."
+    },
+    {
+        "name": "Tartines craquantes quinoa - pois chiche",
+        "image": "https://images.openfoodfacts.org/images/products/000/000/615/3153/front_fr.76.400.jpg",
+        "calories": 378,
+        "price": 26956,
+        "brand": "Jardin Bio",
+        "category": "cereals",
+        "nutrition_grade": "b",
+        "description": "Tartines craquantes quinoa - pois chiche — tabiiy mahsulot."
+    },
+    {
+        "name": "100% mie complet 500g",
+        "image": "https://images.openfoodfacts.org/images/products/322/885/700/0166/front_fr.1824.400.jpg",
+        "calories": 250,
+        "price": 20587,
+        "brand": "Harrys",
+        "category": "cereals",
+        "nutrition_grade": "b",
+        "description": "100% mie complet 500g — tabiiy mahsulot."
+    },
+    {
+        "name": "SPAGHETTI N° 5",
+        "image": "https://images.openfoodfacts.org/images/products/807/680/019/5057/front_en.3428.400.jpg",
+        "calories": 359,
+        "price": 43944,
+        "brand": "Barilla",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "SPAGHETTI N° 5 — tabiiy mahsulot."
+    },
+    {
+        "name": "Muesli SuperFruits Raisins, cassis,cranberry, myrtille",
+        "image": "https://images.openfoodfacts.org/images/products/322/982/078/2560/front_fr.195.400.jpg",
+        "calories": 358,
+        "price": 38568,
+        "brand": "Bjorg",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Muesli SuperFruits Raisins, cassis,cranberry, myrtille — tabiiy mahsulot."
+    },
+    {
+        "name": "Flocons d'avoine complète",
+        "image": "https://images.openfoodfacts.org/images/products/316/893/000/9078/front_en.148.400.jpg",
+        "calories": 375,
+        "price": 44194,
+        "brand": "Quaker",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Flocons d'avoine complète — tabiiy mahsulot."
+    },
+    {
+        "name": "simply nutty muesli",
+        "image": "https://images.openfoodfacts.org/images/products/501/835/701/2497/front_en.34.400.jpg",
+        "calories": 376,
+        "price": 19922,
+        "brand": "dorset cereals",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "simply nutty muesli — tabiiy mahsulot."
+    },
+    {
+        "name": "Bitesize shredded wheat",
+        "image": "https://images.openfoodfacts.org/images/products/761/328/719/4374/front_en.25.400.jpg",
+        "calories": 367,
+        "price": 44582,
+        "brand": "Nestlé",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Bitesize shredded wheat — tabiiy mahsulot."
+    },
+    {
+        "name": "Super Seedy va Nutty Granola",
+        "image": "https://images.openfoodfacts.org/images/products/507/000/012/6579/front_en.17.400.jpg",
+        "calories": 402,
+        "price": 41050,
+        "brand": "Bio & Me",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Super Seedy va Nutty Granola — tabiiy mahsulot."
+    },
+    {
+        "name": "Wheat Biscuits",
+        "image": "https://images.openfoodfacts.org/images/products/500/011/911/7359/front_en.47.400.jpg",
+        "calories": 358,
+        "price": 27573,
+        "brand": "Tesco",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Wheat Biscuits — tabiiy mahsulot."
+    },
+    {
+        "name": "Muesli avoine chocolat bio",
+        "image": "https://images.openfoodfacts.org/images/products/322/982/076/9165/front_en.148.400.jpg",
+        "calories": 390,
+        "price": 30366,
+        "brand": "Bjorg",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Muesli avoine chocolat bio — tabiiy mahsulot."
+    },
+    {
+        "name": "Finn Crisp",
+        "image": "https://images.openfoodfacts.org/images/products/641/050/009/0014/front_en.220.400.jpg",
+        "calories": 350,
+        "price": 42208,
+        "brand": "Finn Crisp, LANTMANNEN CEREALIA AS",
+        "category": "cereals",
+        "nutrition_grade": "b",
+        "description": "Finn Crisp — tabiiy mahsulot."
+    },
+    {
+        "name": "Malt Wheats",
+        "image": "https://images.openfoodfacts.org/images/products/500/043/685/7112/front_en.58.400.jpg",
+        "calories": 362,
+        "price": 22512,
+        "brand": "Tesco",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Malt Wheats — tabiiy mahsulot."
+    },
+    {
+        "name": "Muesli",
+        "image": "https://images.openfoodfacts.org/images/products/501/002/922/6188/front_en.21.400.jpg",
+        "calories": 370,
+        "price": 44181,
+        "brand": "Alpen",
+        "category": "cereals",
+        "nutrition_grade": "b",
+        "description": "Muesli — tabiiy mahsulot."
+    },
+    {
+        "name": "Crispy minis imp",
+        "image": "https://images.openfoodfacts.org/images/products/501/002/922/9035/front_en.3.400.jpg",
+        "calories": 385,
+        "price": 41375,
+        "brand": "Weetabix",
+        "category": "cereals",
+        "nutrition_grade": "b",
+        "description": "Crispy minis imp — tabiiy mahsulot."
+    },
+    {
+        "name": "Grilletine au froment sans sucres ajoutés",
+        "image": "https://images.openfoodfacts.org/images/products/318/218/000/1477/front_fr.81.400.jpg",
+        "calories": 425,
+        "price": 22937,
+        "brand": "brioche pasquier",
+        "category": "cereals",
+        "nutrition_grade": "b",
+        "description": "Grilletine au froment sans sucres ajoutés — tabiiy mahsulot."
+    },
+    {
+        "name": "Pain de mie american sandwich complet sans sucres ajoutés 600g",
+        "image": "https://images.openfoodfacts.org/images/products/322/885/700/2344/front_fr.65.400.jpg",
+        "calories": 280,
+        "price": 37289,
+        "brand": "Harrys",
+        "category": "cereals",
+        "nutrition_grade": "b",
+        "description": "Pain de mie american sandwich complet sans sucres ajoutés 600g — tabiiy mahsulot."
+    },
+    {
+        "name": "Low Sugar Yong‘oqlar va Seeds Granola imp",
+        "image": "https://images.openfoodfacts.org/images/products/506/004/322/4561/front_en.3.400.jpg",
+        "calories": 447,
+        "price": 39960,
+        "brand": "Lizi’s",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Low Sugar Yong‘oqlar va Seeds Granola imp — tabiiy mahsulot."
+    },
+    {
+        "name": "Wholemeal Bread",
+        "image": "https://images.openfoodfacts.org/images/products/501/004/400/0251/front_en.44.400.jpg",
+        "calories": 228,
+        "price": 16374,
+        "brand": "Warburtons",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Wholemeal Bread — tabiiy mahsulot."
+    },
+    {
+        "name": "Harrys beau va bon pain de mie farine de ble cereales va graines 320g",
+        "image": "https://images.openfoodfacts.org/images/products/322/885/700/1194/front_fr.1105.400.jpg",
+        "calories": 286,
+        "price": 44095,
+        "brand": "Harrys",
+        "category": "cereals",
+        "nutrition_grade": "b",
+        "description": "Harrys beau va bon pain de mie farine de ble cereales va graines 320g — tabiiy mahsulot."
+    },
+    {
+        "name": "Organic Porridge Oats",
+        "image": "https://images.openfoodfacts.org/images/products/408/860/005/6135/front_en.61.400.jpg",
+        "calories": 360,
+        "price": 15360,
+        "brand": "Kavanagh's",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Organic Porridge Oats — tabiiy mahsulot."
+    },
+    {
+        "name": "weetabix",
+        "image": "https://images.openfoodfacts.org/images/products/501/002/900/0504/front_en.47.400.jpg",
+        "calories": 349,
+        "price": 19957,
+        "brand": "Weetabix",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "weetabix — tabiiy mahsulot."
+    },
+    {
+        "name": "Penne Rigate N°73",
+        "image": "https://images.openfoodfacts.org/images/products/807/680/208/5738/front_en.3506.400.jpg",
+        "calories": 359,
+        "price": 26904,
+        "brand": "Barilla",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Penne Rigate N°73 — tabiiy mahsulot."
+    },
+    {
+        "name": "original shredded wheat",
+        "image": "https://images.openfoodfacts.org/images/products/761/303/147/3113/front_en.56.400.jpg",
+        "calories": 360,
+        "price": 21354,
+        "brand": "Nestlé, Nestlé UK Ltd",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "original shredded wheat — tabiiy mahsulot."
+    },
+    {
+        "name": "Wholegrain Wheat Bixies",
+        "image": "https://images.openfoodfacts.org/images/products/000/002/047/1613/front_en.35.400.jpg",
+        "calories": 362,
+        "price": 32205,
+        "brand": "Crownfield - Lidl",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Wholegrain Wheat Bixies — tabiiy mahsulot."
+    },
+    {
+        "name": "Irish Organic Jumbo Oats",
+        "image": "https://images.openfoodfacts.org/images/products/509/980/100/3339/front_en.6.400.jpg",
+        "calories": 370,
+        "price": 21725,
+        "brand": "Flahavan's",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Irish Organic Jumbo Oats — tabiiy mahsulot."
+    },
+    {
+        "name": "Barilla Penne Rigate Fullkorn 500g",
+        "image": "https://images.openfoodfacts.org/images/products/807/680/952/9433/front_en.397.400.jpg",
+        "calories": 347,
+        "price": 38446,
+        "brand": "Barilla",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Barilla Penne Rigate Fullkorn 500g — tabiiy mahsulot."
+    },
+    {
+        "name": "Copos de avena",
+        "image": "https://images.openfoodfacts.org/images/products/400/871/375/6661/front_en.93.400.jpg",
+        "calories": 375,
+        "price": 37760,
+        "brand": "Brüggen",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Copos de avena — tabiiy mahsulot."
+    },
+    {
+        "name": "Oat so Simple",
+        "image": "https://images.openfoodfacts.org/images/products/500/010/828/0941/front_en.24.400.jpg",
+        "calories": 370,
+        "price": 22377,
+        "brand": "Quaker, Quaker Oats",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Oat so Simple — tabiiy mahsulot."
+    },
+    {
+        "name": "NESTLE CHOCAPIC Céréales 375g",
+        "image": "https://images.openfoodfacts.org/images/products/338/739/012/3210/front_fr.3.400.jpg",
+        "calories": 384,
+        "price": 30621,
+        "brand": "Nestlé, Chocapic",
+        "category": "cereals",
+        "nutrition_grade": "b",
+        "description": "NESTLE CHOCAPIC Céréales 375g — tabiiy mahsulot."
+    },
+    {
+        "name": "Hafer Flocken Zart",
+        "image": "https://images.openfoodfacts.org/images/products/000/004/089/7677/front_de.225.400.jpg",
+        "calories": 371,
+        "price": 27178,
+        "brand": "Crownfield,Bio Organic,Lidl",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Hafer Flocken Zart — tabiiy mahsulot."
+    },
+    {
+        "name": "Greek Style Flatbread",
+        "image": "https://images.openfoodfacts.org/images/products/501/212/100/4336/front_en.33.400.jpg",
+        "calories": 255,
+        "price": 31058,
+        "brand": "Deli Kitchen",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Greek Style Flatbread — tabiiy mahsulot."
+    },
+    {
+        "name": "Bran Flakes Malty Crunch",
+        "image": "https://images.openfoodfacts.org/images/products/505/775/315/8422/front_en.22.400.jpg",
+        "calories": 352,
+        "price": 18980,
+        "brand": "Tesco",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Bran Flakes Malty Crunch — tabiiy mahsulot."
+    },
+    {
+        "name": "Simply Delicious Muesli",
+        "image": "https://images.openfoodfacts.org/images/products/501/835/701/2411/front_en.44.400.jpg",
+        "calories": 368,
+        "price": 17766,
+        "brand": "Dorset Cereals",
+        "category": "cereals",
+        "nutrition_grade": "b",
+        "description": "Simply Delicious Muesli — tabiiy mahsulot."
+    },
+    {
+        "name": "Bran Flakes",
+        "image": "https://images.openfoodfacts.org/images/products/500/012/706/2092/front_en.37.400.jpg",
+        "calories": 358,
+        "price": 25791,
+        "brand": "Kellogg's",
+        "category": "cereals",
+        "nutrition_grade": "b",
+        "description": "Bran Flakes — tabiiy mahsulot."
+    },
+    {
+        "name": "Simply Fruity muesli",
+        "image": "https://images.openfoodfacts.org/images/products/501/835/701/2534/front_en.25.400.jpg",
+        "calories": 349,
+        "price": 39247,
+        "brand": "Dorset cereals",
+        "category": "cereals",
+        "nutrition_grade": "b",
+        "description": "Simply Fruity muesli — tabiiy mahsulot."
+    },
+    {
+        "name": "Fitness Nature Céréales complètes",
+        "image": "https://images.openfoodfacts.org/images/products/761/328/751/4325/front_fr.169.400.jpg",
+        "calories": 368,
+        "price": 37551,
+        "brand": "Nestle",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Fitness Nature Céréales complètes — tabiiy mahsulot."
+    },
+    {
+        "name": "Avena crunchy",
+        "image": "https://images.openfoodfacts.org/images/products/848/000/015/6112/front_es.96.400.jpg",
+        "calories": 390,
+        "price": 16538,
+        "brand": "Hacendado",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Avena crunchy — tabiiy mahsulot."
+    },
+    {
+        "name": "6 Wholemeal Pittas",
+        "image": "https://images.openfoodfacts.org/images/products/500/011/909/5282/front_en.29.400.jpg",
+        "calories": 241,
+        "price": 36233,
+        "brand": "Tesco",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "6 Wholemeal Pittas — tabiiy mahsulot."
+    },
+    {
+        "name": "Muesli Croustillant Noix de pécan va noix du Brésil",
+        "image": "https://images.openfoodfacts.org/images/products/316/893/000/9795/front_fr.96.400.jpg",
+        "calories": 420,
+        "price": 26147,
+        "brand": "Muesli Croustillant, Quaker",
+        "category": "cereals",
+        "nutrition_grade": "b",
+        "description": "Muesli Croustillant Noix de pécan va noix du Brésil — tabiiy mahsulot."
+    },
+    {
+        "name": "Malted Wheaties",
+        "image": "https://images.openfoodfacts.org/images/products/408/860/024/7458/front_en.3.400.jpg",
+        "calories": 370,
+        "price": 43733,
+        "brand": "Harvest Morn",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Malted Wheaties — tabiiy mahsulot."
+    },
+    {
+        "name": "Special Flakes Classic",
+        "image": "https://images.openfoodfacts.org/images/products/000/002/062/1469/front_en.180.400.jpg",
+        "calories": 388,
+        "price": 34936,
+        "brand": "Crownfield",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Special Flakes Classic — tabiiy mahsulot."
+    },
+    {
+        "name": "Bebida de Avena",
+        "image": "https://images.openfoodfacts.org/images/products/842/335/286/1402/front_es.84.400.jpg",
+        "calories": 47,
+        "price": 15042,
+        "brand": "Alitey",
+        "category": "cereals",
+        "nutrition_grade": "b",
+        "description": "Bebida de Avena — tabiiy mahsulot."
+    },
+    {
+        "name": "Low Sugar, Naturally Gut-Loving Granola",
+        "image": "https://images.openfoodfacts.org/images/products/507/000/012/6548/front_en.3.400.jpg",
+        "calories": 447,
+        "price": 42298,
+        "brand": "Bio & Me",
+        "category": "cereals",
+        "nutrition_grade": "a",
+        "description": "Low Sugar, Naturally Gut-Loving Granola — tabiiy mahsulot."
+    }
+]

@@ -1,0 +1,30 @@
+# make image from dockerfile
+docker build -t mydjangoapp .
+docker run -p 8000:8000 mydjangoapp
+
+# push to docker hub
+docker login
+docker tag foods_app sardor1337/foods_app:latest
+docker push sardor1337/foods_app:latest
+
+# pull from docker hub
+docker pull sardor1337/foods_app:latest
+
+
+# run yaml file
+docker-compose up
+
+# restarts
+docker-compose down -v
+docker-compose up --build
+
+# migrate columns to database
+docker-compose exec web python manage.py makemigrations
+docker-compose exec web python manage.py migrate
+docker-compose exec web python manage.py createsuperuser
+
+# load data
+docker-compose exec web python manage.py import_products
+
+# check service name
+docker-compose config --services
